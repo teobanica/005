@@ -1,0 +1,285 @@
+[23:55:41 |   0.0 min] start; numpy 2.5.4, python 3.14.10; 56 jobs. Converged norms ||Phi_k||, order 6, levels 2 to 9.
+[23:55:41 |   0.0 min] === T_6, level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   T_6: ||Phi_2|| = 0.25000000   (residual 1.1e-16, 2 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === BF_6, level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   BF_6: ||Phi_2|| = 0.63349785   (residual 2.2e-17, 8 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q random, level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   H_6^q, q random: ||Phi_2|| = 0.40187218   (residual 1.1e-16, 7 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q = 1, level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   H_6^q, q = 1: ||Phi_2|| = 0.37037037   (residual 3.1e-17, 4 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q random on arc, level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   BN_6^q, q random on arc: ||Phi_2|| = 0.50083614   (residual 4.2e-17, 10 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q = i (D_6), level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   BN_6^q, q = i (D_6): ||Phi_2|| = 0.37037037   (residual 5.4e-17, 4 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === K_6, random, level 2 (dimension 36) ===
+[23:55:41 |   0.0 min]   K_6, random: ||Phi_2|| = 0.74159173   (residual 6.2e-13, 15 Lanczos steps, leak 5.4e-15, 0 s)
+[23:55:41 |   0.0 min] === T_6, level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]   T_6: ||Phi_3|| = 0.42838137   (residual 5.0e-17, 5 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === BF_6, level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6334978499, residual 5.0e-14 (0 s)
+[23:55:41 |   0.0 min]   BF_6: ||Phi_3|| = 0.63349785   (residual 5.0e-14, 20 Lanczos steps, leak 3.3e-15, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q random, level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.4018721798, residual 5.7e-13 (0 s)
+[23:55:41 |   0.0 min]   H_6^q, q random: ||Phi_3|| = 0.40187218   (residual 5.7e-13, 20 Lanczos steps, leak 1.2e-14, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q = 1, level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]   H_6^q, q = 1: ||Phi_3|| = 0.37037037   (residual 3.2e-17, 10 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q random on arc, level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.5008361399, residual 1.9e-10 (0 s)
+[23:55:41 |   0.0 min]   BN_6^q, q random on arc: ||Phi_3|| = 0.50083614   (residual 1.9e-10, 20 Lanczos steps, leak 1.6e-15, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q = i (D_6), level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]   BN_6^q, q = i (D_6): ||Phi_3|| = 0.37037037   (residual 6.3e-17, 10 Lanczos steps, leak 0.0e+00, 0 s)
+[23:55:41 |   0.0 min] === K_6, random, level 3 (dimension 216) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.7415917329, residual 7.4e-10 (0 s)
+[23:55:41 |   0.0 min]   K_6, random: ||Phi_3|| = 0.74159173   (residual 7.4e-10, 20 Lanczos steps, leak 2.1e-15, 0 s)
+[23:55:41 |   0.0 min] === T_6, level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6189209153, residual 1.3e-14 (0 s)
+[23:55:41 |   0.0 min]   T_6: ||Phi_4|| = 0.61892092   (residual 1.3e-14, 20 Lanczos steps, leak 1.6e-15, 0 s)
+[23:55:41 |   0.0 min] === BF_6, level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6662352494, residual 8.0e-04 (0 s)
+[23:55:41 |   0.0 min]       Lanczos step 40: theta = 0.6666604864, residual 9.6e-09 (0 s)
+[23:55:41 |   0.0 min]   BF_6: ||Phi_4|| = 0.66666049   (residual 3.4e-12, 45 Lanczos steps, leak 3.7e-14, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q random, level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6733118109, residual 4.7e-06 (0 s)
+[23:55:41 |   0.0 min]   H_6^q, q random: ||Phi_4|| = 0.67331181   (residual 1.4e-12, 30 Lanczos steps, leak 8.0e-15, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q = 1, level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6666666667, residual 4.8e-10 (0 s)
+[23:55:41 |   0.0 min]   H_6^q, q = 1: ||Phi_4|| = 0.66666667   (residual 4.8e-10, 20 Lanczos steps, leak 2.3e-15, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q random on arc, level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6922107768, residual 2.2e-05 (0 s)
+[23:55:41 |   0.0 min]   BN_6^q, q random on arc: ||Phi_4|| = 0.69221078   (residual 3.4e-10, 30 Lanczos steps, leak 4.5e-15, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q = i (D_6), level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6666666667, residual 4.8e-10 (0 s)
+[23:55:41 |   0.0 min]   BN_6^q, q = i (D_6): ||Phi_4|| = 0.66666667   (residual 4.8e-10, 20 Lanczos steps, leak 2.3e-15, 0 s)
+[23:55:41 |   0.0 min] === K_6, random, level 4 (dimension 1296) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.7945616746, residual 1.4e-05 (0 s)
+[23:55:41 |   0.0 min]   K_6, random: ||Phi_4|| = 0.79456168   (residual 4.5e-10, 30 Lanczos steps, leak 4.8e-15, 0 s)
+[23:55:41 |   0.0 min] === T_6, level 5 (dimension 7776) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6189209152, residual 2.5e-06 (0 s)
+[23:55:41 |   0.0 min]   T_6: ||Phi_5|| = 0.61892092   (residual 8.5e-13, 30 Lanczos steps, leak 8.3e-15, 0 s)
+[23:55:41 |   0.0 min] === BF_6, level 5 (dimension 7776) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6662489737, residual 1.8e-03 (0 s)
+[23:55:41 |   0.0 min]       Lanczos step 40: theta = 0.6666604859, residual 1.2e-05 (0 s)
+[23:55:41 |   0.0 min]   BF_6: ||Phi_5|| = 0.66666049   (residual 4.8e-11, 55 Lanczos steps, leak 2.1e-14, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q random, level 5 (dimension 7776) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6733114464, residual 3.0e-04 (0 s)
+[23:55:41 |   0.0 min]       Lanczos step 40: theta = 0.6733118109, residual 1.6e-10 (0 s)
+[23:55:41 |   0.0 min]   H_6^q, q random: ||Phi_5|| = 0.67331181   (residual 1.6e-10, 40 Lanczos steps, leak 1.1e-14, 0 s)
+[23:55:41 |   0.0 min] === H_6^q, q = 1, level 5 (dimension 7776) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6666666613, residual 3.1e-05 (0 s)
+[23:55:41 |   0.0 min]   H_6^q, q = 1: ||Phi_5|| = 0.66666667   (residual 4.0e-11, 35 Lanczos steps, leak 1.1e-14, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q random on arc, level 5 (dimension 7776) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6922025105, residual 1.3e-03 (0 s)
+[23:55:41 |   0.0 min]       Lanczos step 40: theta = 0.6922107784, residual 1.0e-09 (0 s)
+[23:55:41 |   0.0 min]   BN_6^q, q random on arc: ||Phi_5|| = 0.69221078   (residual 3.0e-11, 45 Lanczos steps, leak 1.2e-14, 0 s)
+[23:55:41 |   0.0 min] === BN_6^q, q = i (D_6), level 5 (dimension 7776) ===
+[23:55:41 |   0.0 min]       Lanczos step 20: theta = 0.6666666613, residual 3.1e-05 (0 s)
+[23:55:41 |   0.0 min]   BN_6^q, q = i (D_6): ||Phi_5|| = 0.66666667   (residual 4.0e-11, 35 Lanczos steps, leak 1.1e-14, 0 s)
+[23:55:41 |   0.0 min] === K_6, random, level 5 (dimension 7776) ===
+[23:55:42 |   0.0 min]       Lanczos step 20: theta = 0.7945615908, residual 1.2e-04 (0 s)
+[23:55:42 |   0.0 min]       Lanczos step 40: theta = 0.7945616751, residual 5.8e-11 (0 s)
+[23:55:42 |   0.0 min]   K_6, random: ||Phi_5|| = 0.79456168   (residual 5.8e-11, 40 Lanczos steps, leak 7.8e-15, 0 s)
+[23:55:42 |   0.0 min] === T_6, level 6 (dimension 46656) ===
+[23:55:42 |   0.0 min]       Lanczos step 20: theta = 0.6510458221, residual 6.5e-04 (0 s)
+[23:55:42 |   0.0 min]       Lanczos step 40: theta = 0.6510491889, residual 2.9e-09 (1 s)
+[23:55:42 |   0.0 min]   T_6: ||Phi_6|| = 0.65104919   (residual 6.2e-11, 45 Lanczos steps, leak 1.6e-14, 1 s)
+[23:55:42 |   0.0 min] === BF_6, level 6 (dimension 46656) ===
+[23:55:42 |   0.0 min]       Lanczos step 20: theta = 0.6652435722, residual 4.6e-03 (0 s)
+[23:55:43 |   0.0 min]       Lanczos step 40: theta = 0.6665172894, residual 1.3e-03 (1 s)
+[23:55:43 |   0.0 min]       Lanczos step 60: theta = 0.6666240803, residual 6.0e-04 (1 s)
+[23:55:43 |   0.0 min]       Lanczos step 80: theta = 0.6666572453, residual 2.9e-04 (1 s)
+[23:55:43 |   0.0 min]       Lanczos step 100: theta = 0.6666604750, residual 3.2e-05 (1 s)
+[23:55:44 |   0.0 min]       Lanczos step 120: theta = 0.6666604864, residual 1.1e-07 (2 s)
+[23:55:44 |   0.0 min]   BF_6: ||Phi_6|| = 0.66666049   (residual 5.5e-10, 130 Lanczos steps, leak 1.1e-13, 2 s)
+[23:55:44 |   0.0 min] === H_6^q, q random, level 6 (dimension 46656) ===
+[23:55:44 |   0.1 min]       Lanczos step 20: theta = 0.6726339698, residual 6.4e-03 (0 s)
+[23:55:44 |   0.1 min]       Lanczos step 40: theta = 0.6733117616, residual 8.5e-05 (1 s)
+[23:55:45 |   0.1 min]       Lanczos step 60: theta = 0.6733118109, residual 4.0e-08 (1 s)
+[23:55:45 |   0.1 min]   H_6^q, q random: ||Phi_6|| = 0.67331181   (residual 1.8e-10, 75 Lanczos steps, leak 3.9e-14, 1 s)
+[23:55:45 |   0.1 min] === H_6^q, q = 1, level 6 (dimension 46656) ===
+[23:55:45 |   0.1 min]       Lanczos step 20: theta = 0.6664688531, residual 2.6e-03 (0 s)
+[23:55:45 |   0.1 min]       Lanczos step 40: theta = 0.6666666666, residual 4.3e-06 (1 s)
+[23:55:46 |   0.1 min]       Lanczos step 60: theta = 0.6666666667, residual 1.3e-10 (1 s)
+[23:55:46 |   0.1 min]   H_6^q, q = 1: ||Phi_6|| = 0.66666667   (residual 1.3e-10, 60 Lanczos steps, leak 2.1e-14, 1 s)
+[23:55:46 |   0.1 min] === BN_6^q, q random on arc, level 6 (dimension 46656) ===
+[23:55:46 |   0.1 min]       Lanczos step 20: theta = 0.6905352989, residual 7.8e-03 (0 s)
+[23:55:46 |   0.1 min]       Lanczos step 40: theta = 0.6922107569, residual 5.8e-05 (1 s)
+[23:55:46 |   0.1 min]       Lanczos step 60: theta = 0.6922107784, residual 8.5e-10 (1 s)
+[23:55:46 |   0.1 min]   BN_6^q, q random on arc: ||Phi_6|| = 0.69221078   (residual 8.5e-10, 60 Lanczos steps, leak 1.9e-14, 1 s)
+[23:55:46 |   0.1 min] === BN_6^q, q = i (D_6), level 6 (dimension 46656) ===
+[23:55:47 |   0.1 min]       Lanczos step 20: theta = 0.6664688531, residual 2.6e-03 (0 s)
+[23:55:47 |   0.1 min]       Lanczos step 40: theta = 0.6666666666, residual 4.3e-06 (1 s)
+[23:55:47 |   0.1 min]       Lanczos step 60: theta = 0.6666666667, residual 1.3e-10 (1 s)
+[23:55:47 |   0.1 min]   BN_6^q, q = i (D_6): ||Phi_6|| = 0.66666667   (residual 1.3e-10, 60 Lanczos steps, leak 2.1e-14, 1 s)
+[23:55:47 |   0.1 min] === K_6, random, level 6 (dimension 46656) ===
+[23:55:48 |   0.1 min]       Lanczos step 20: theta = 0.7945182634, residual 2.6e-03 (0 s)
+[23:55:48 |   0.1 min]       Lanczos step 40: theta = 0.7945616751, residual 1.7e-07 (1 s)
+[23:55:48 |   0.1 min]   K_6, random: ||Phi_6|| = 0.79456168   (residual 2.0e-10, 50 Lanczos steps, leak 1.4e-14, 1 s)
+[23:55:48 |   0.1 min] === T_6, level 7 (dimension 279936) ===
+[23:55:50 |   0.2 min]       Lanczos step 20: theta = 0.6501670257, residual 2.0e-03 (2 s)
+[23:55:52 |   0.2 min]       Lanczos step 40: theta = 0.6510490798, residual 1.2e-04 (4 s)
+[23:55:54 |   0.2 min]       Lanczos step 60: theta = 0.6510491889, residual 1.2e-08 (6 s)
+[23:55:55 |   0.2 min]   T_6: ||Phi_7|| = 0.65104919   (residual 8.9e-10, 65 Lanczos steps, leak 2.8e-14, 7 s)
+[23:55:55 |   0.2 min] === BF_6, level 7 (dimension 279936) ===
+[23:55:57 |   0.3 min]       Lanczos step 20: theta = 0.6650761576, residual 5.9e-03 (2 s)
+[23:55:59 |   0.3 min]       Lanczos step 40: theta = 0.6665944276, residual 1.3e-03 (4 s)
+[23:56:01 |   0.3 min]       Lanczos step 60: theta = 0.6666454895, residual 4.5e-04 (6 s)
+[23:56:03 |   0.4 min]       Lanczos step 80: theta = 0.6666585512, residual 1.9e-04 (8 s)
+[23:56:05 |   0.4 min]       Lanczos step 100: theta = 0.6666604601, residual 4.1e-05 (10 s)
+[23:56:07 |   0.4 min]       Lanczos step 120: theta = 0.6666604863, residual 1.9e-06 (12 s)
+[23:56:09 |   0.5 min]       Lanczos step 140: theta = 0.6666604864, residual 1.5e-07 (14 s)
+[23:56:11 |   0.5 min]       Lanczos step 160: theta = 0.6666604864, residual 2.0e-09 (16 s)
+[23:56:12 |   0.5 min]   BF_6: ||Phi_7|| = 0.66666049   (residual 9.8e-10, 165 Lanczos steps, leak 1.4e-13, 17 s)
+[23:56:12 |   0.5 min] === H_6^q, q random, level 7 (dimension 279936) ===
+[23:56:14 |   0.6 min]       Lanczos step 20: theta = 0.6708140363, residual 1.1e-02 (2 s)
+[23:56:16 |   0.6 min]       Lanczos step 40: theta = 0.6733112967, residual 2.2e-04 (4 s)
+[23:56:18 |   0.6 min]       Lanczos step 60: theta = 0.6733118109, residual 3.9e-07 (6 s)
+[23:56:20 |   0.7 min]       Lanczos step 80: theta = 0.6733118109, residual 1.4e-09 (8 s)
+[23:56:21 |   0.7 min]   H_6^q, q random: ||Phi_7|| = 0.67331181   (residual 4.5e-10, 85 Lanczos steps, leak 4.2e-14, 9 s)
+[23:56:21 |   0.7 min] === H_6^q, q = 1, level 7 (dimension 279936) ===
+[23:56:23 |   0.7 min]       Lanczos step 20: theta = 0.6659831319, residual 5.9e-03 (2 s)
+[23:56:25 |   0.7 min]       Lanczos step 40: theta = 0.6666666547, residual 4.1e-05 (4 s)
+[23:56:27 |   0.8 min]       Lanczos step 60: theta = 0.6666666667, residual 6.9e-09 (6 s)
+[23:56:28 |   0.8 min]   H_6^q, q = 1: ||Phi_7|| = 0.66666667   (residual 5.9e-10, 65 Lanczos steps, leak 2.5e-14, 7 s)
+[23:56:28 |   0.8 min] === BN_6^q, q random on arc, level 7 (dimension 279936) ===
+[23:56:30 |   0.8 min]       Lanczos step 20: theta = 0.6920663531, residual 2.5e-03 (2 s)
+[23:56:32 |   0.9 min]       Lanczos step 40: theta = 0.6922107620, residual 4.8e-05 (4 s)
+[23:56:34 |   0.9 min]       Lanczos step 60: theta = 0.6922107784, residual 7.0e-08 (6 s)
+[23:56:36 |   0.9 min]   BN_6^q, q random on arc: ||Phi_7|| = 0.69221078   (residual 1.4e-10, 75 Lanczos steps, leak 3.2e-14, 8 s)
+[23:56:36 |   0.9 min] === BN_6^q, q = i (D_6), level 7 (dimension 279936) ===
+[23:56:38 |   1.0 min]       Lanczos step 20: theta = 0.6659831319, residual 5.9e-03 (2 s)
+[23:56:40 |   1.0 min]       Lanczos step 40: theta = 0.6666666547, residual 4.1e-05 (4 s)
+[23:56:42 |   1.0 min]       Lanczos step 60: theta = 0.6666666667, residual 6.9e-09 (6 s)
+[23:56:42 |   1.0 min]   BN_6^q, q = i (D_6): ||Phi_7|| = 0.66666667   (residual 5.9e-10, 65 Lanczos steps, leak 2.5e-14, 7 s)
+[23:56:42 |   1.0 min] === K_6, random, level 7 (dimension 279936) ===
+[23:56:45 |   1.1 min]       Lanczos step 20: theta = 0.7931925753, residual 1.2e-02 (2 s)
+[23:56:47 |   1.1 min]       Lanczos step 40: theta = 0.7945616751, residual 1.3e-06 (4 s)
+[23:56:48 |   1.1 min]   K_6, random: ||Phi_7|| = 0.79456168   (residual 6.3e-10, 55 Lanczos steps, leak 1.8e-14, 6 s)
+[23:56:48 |   1.1 min] === T_6, level 8 (dimension 1679616) ===
+[23:57:06 |   1.4 min]       Lanczos step 20: theta = 0.6644072679, residual 4.1e-03 (16 s)
+[23:57:22 |   1.7 min]       Lanczos step 40: theta = 0.6648661981, residual 2.4e-03 (32 s)
+[23:57:38 |   2.0 min]       Lanczos step 60: theta = 0.6650055594, residual 7.1e-04 (48 s)
+[23:57:55 |   2.2 min]       Lanczos step 80: theta = 0.6650195123, residual 2.0e-05 (65 s)
+[23:58:11 |   2.5 min]       Lanczos step 100: theta = 0.6650195182, residual 1.6e-07 (81 s)
+[23:58:27 |   2.8 min]       Lanczos step 120: theta = 0.6650195182, residual 4.9e-10 (97 s)
+[23:58:27 |   2.8 min]   T_6: ||Phi_8|| = 0.66501952   (residual 4.9e-10, 120 Lanczos steps, leak 6.8e-14, 97 s)
+[23:58:27 |   2.8 min] === BF_6, level 8 (dimension 1679616) ===
+[23:58:45 |   3.1 min]       Lanczos step 20: theta = 0.6646513496, residual 6.2e-03 (16 s)
+[23:59:02 |   3.3 min]       Lanczos step 40: theta = 0.6664421808, residual 1.8e-03 (33 s)
+[23:59:18 |   3.6 min]       Lanczos step 60: theta = 0.6665953222, residual 8.4e-04 (49 s)
+[23:59:34 |   3.9 min]       Lanczos step 80: theta = 0.6666441195, residual 4.3e-04 (65 s)
+[23:59:50 |   4.2 min]       Lanczos step 100: theta = 0.6666529938, residual 2.1e-04 (81 s)
+[00:00:07 |   4.4 min]       Lanczos step 120: theta = 0.6666581094, residual 1.6e-04 (98 s)
+[00:00:23 |   4.7 min]       Lanczos step 140: theta = 0.6666605704, residual 1.8e-04 (114 s)
+[00:00:39 |   5.0 min]       Lanczos step 160: theta = 0.6666624208, residual 8.1e-05 (130 s)
+[00:00:55 |   5.2 min]       Lanczos step 180: theta = 0.6666628131, residual 4.0e-05 (146 s)
+[00:01:12 |   5.5 min]       Lanczos step 200: theta = 0.6666632517, residual 5.8e-05 (163 s)
+[00:01:28 |   5.8 min]       Lanczos step 220: theta = 0.6666634095, residual 3.0e-05 (179 s)
+[00:01:44 |   6.1 min]       Lanczos step 240: theta = 0.6666636060, residual 2.0e-05 (195 s)
+[00:02:00 |   6.3 min]       Lanczos step 260: theta = 0.6666636865, residual 3.4e-05 (211 s)
+[00:02:17 |   6.6 min]       Lanczos step 280: theta = 0.6666638331, residual 2.7e-05 (228 s)
+[00:02:33 |   6.9 min]       Lanczos step 300: theta = 0.6666638583, residual 6.0e-06 (244 s)
+[00:02:49 |   7.1 min]       Lanczos step 320: theta = 0.6666638876, residual 3.7e-05 (260 s)
+[00:03:05 |   7.4 min]       Lanczos step 340: theta = 0.6666643868, residual 4.0e-05 (276 s)
+[00:03:21 |   7.7 min]       Lanczos step 360: theta = 0.6666644527, residual 7.3e-06 (292 s)
+[00:03:38 |   7.9 min]       Lanczos step 380: theta = 0.6666644547, residual 7.5e-07 (309 s)
+[00:03:54 |   8.2 min]       Lanczos step 400: theta = 0.6666644547, residual 5.6e-08 (325 s)
+[00:03:54 |   8.2 min]   BF_6: ||Phi_8|| = 0.66666445   (residual 5.6e-08, 400 Lanczos steps, leak 6.4e-13, 325 s)
+[00:03:54 |   8.2 min] === H_6^q, q random, level 8 (dimension 1679616) ===
+[00:04:12 |   8.5 min]       Lanczos step 20: theta = 0.6800287426, residual 8.9e-03 (16 s)
+[00:04:28 |   8.8 min]       Lanczos step 40: theta = 0.6811870522, residual 1.6e-04 (33 s)
+[00:04:45 |   9.1 min]       Lanczos step 60: theta = 0.6811874069, residual 9.2e-07 (49 s)
+[00:05:01 |   9.3 min]       Lanczos step 80: theta = 0.6811874069, residual 2.2e-09 (65 s)
+[00:05:05 |   9.4 min]   H_6^q, q random: ||Phi_8|| = 0.68118741   (residual 6.0e-10, 85 Lanczos steps, leak 4.0e-14, 69 s)
+[00:05:05 |   9.4 min] === H_6^q, q = 1, level 8 (dimension 1679616) ===
+[00:05:23 |   9.7 min]       Lanczos step 20: theta = 0.6637193267, residual 9.5e-03 (16 s)
+[00:05:39 |  10.0 min]       Lanczos step 40: theta = 0.6666063491, residual 1.9e-03 (32 s)
+[00:05:55 |  10.2 min]       Lanczos step 60: theta = 0.6666660795, residual 1.6e-04 (48 s)
+[00:06:11 |  10.5 min]       Lanczos step 80: theta = 0.6666666665, residual 4.1e-06 (64 s)
+[00:06:27 |  10.8 min]       Lanczos step 100: theta = 0.6666666667, residual 5.4e-08 (80 s)
+[00:06:43 |  11.0 min]       Lanczos step 120: theta = 0.6666666667, residual 7.8e-10 (97 s)
+[00:06:43 |  11.0 min]   H_6^q, q = 1: ||Phi_8|| = 0.66666667   (residual 7.8e-10, 120 Lanczos steps, leak 6.5e-14, 97 s)
+[00:06:43 |  11.0 min] === BN_6^q, q random on arc, level 8 (dimension 1679616) ===
+[00:07:01 |  11.3 min]       Lanczos step 20: theta = 0.6984840304, residual 8.9e-03 (16 s)
+[00:07:17 |  11.6 min]       Lanczos step 40: theta = 0.6999156096, residual 1.3e-04 (33 s)
+[00:07:34 |  11.9 min]       Lanczos step 60: theta = 0.6999158093, residual 4.0e-07 (49 s)
+[00:07:50 |  12.1 min]       Lanczos step 80: theta = 0.6999158093, residual 1.2e-09 (65 s)
+[00:07:54 |  12.2 min]   BN_6^q, q random on arc: ||Phi_8|| = 0.69991581   (residual 3.1e-10, 85 Lanczos steps, leak 4.0e-14, 69 s)
+[00:07:54 |  12.2 min] === BN_6^q, q = i (D_6), level 8 (dimension 1679616) ===
+[00:08:11 |  12.5 min]       Lanczos step 20: theta = 0.6637193267, residual 9.5e-03 (16 s)
+[00:08:28 |  12.8 min]       Lanczos step 40: theta = 0.6666063491, residual 1.9e-03 (32 s)
+[00:08:44 |  13.0 min]       Lanczos step 60: theta = 0.6666660795, residual 1.6e-04 (48 s)
+[00:09:00 |  13.3 min]       Lanczos step 80: theta = 0.6666666665, residual 4.1e-06 (65 s)
+[00:09:16 |  13.6 min]       Lanczos step 100: theta = 0.6666666667, residual 5.4e-08 (81 s)
+[00:09:33 |  13.9 min]       Lanczos step 120: theta = 0.6666666667, residual 7.8e-10 (97 s)
+[00:09:33 |  13.9 min]   BN_6^q, q = i (D_6): ||Phi_8|| = 0.66666667   (residual 7.8e-10, 120 Lanczos steps, leak 6.5e-14, 97 s)
+[00:09:33 |  13.9 min] === K_6, random, level 8 (dimension 1679616) ===
+[00:09:51 |  14.2 min]       Lanczos step 20: theta = 0.7943893600, residual 4.5e-03 (16 s)
+[00:10:07 |  14.4 min]       Lanczos step 40: theta = 0.7945616751, residual 6.8e-07 (33 s)
+[00:10:19 |  14.6 min]   K_6, random: ||Phi_8|| = 0.79456168   (residual 5.5e-10, 55 Lanczos steps, leak 1.9e-14, 45 s)
+[00:10:19 |  14.6 min] === T_6, level 9 (dimension 10077696) ===
+[00:12:22 |  16.7 min]       Lanczos step 20: theta = 0.6646323884, residual 4.9e-03 (111 s)
+[00:14:13 |  18.5 min]       Lanczos step 40: theta = 0.6654704949, residual 2.3e-03 (222 s)
+[00:16:04 |  20.4 min]       Lanczos step 60: theta = 0.6656768503, residual 7.8e-04 (333 s)
+[00:17:54 |  22.2 min]       Lanczos step 80: theta = 0.6657355386, residual 3.1e-04 (443 s)
+[00:19:45 |  24.1 min]       Lanczos step 100: theta = 0.6657418959, residual 1.1e-04 (554 s)
+[00:21:35 |  25.9 min]       Lanczos step 120: theta = 0.6657429224, residual 1.0e-05 (664 s)
+[00:23:27 |  27.8 min]       Lanczos step 140: theta = 0.6657429296, residual 2.1e-06 (775 s)
+[00:25:18 |  29.6 min]       Lanczos step 160: theta = 0.6657429297, residual 1.5e-08 (887 s)
+[00:26:41 |  31.0 min]   T_6: ||Phi_9|| = 0.66574293   (residual 5.6e-10, 175 Lanczos steps, leak 1.4e-13, 970 s)
+[00:26:41 |  31.0 min] === BF_6, level 9 (dimension 10077696) ===
+[00:28:43 |  33.0 min]       Lanczos step 20: theta = 0.6638375844, residual 7.0e-03 (111 s)
+[00:30:35 |  34.9 min]       Lanczos step 40: theta = 0.6663540047, residual 2.1e-03 (222 s)
+[00:32:26 |  36.7 min]       Lanczos step 60: theta = 0.6665327292, residual 8.1e-04 (333 s)
+[00:34:16 |  38.6 min]       Lanczos step 80: theta = 0.6665922451, residual 5.9e-04 (444 s)
+[00:36:08 |  40.4 min]       Lanczos step 100: theta = 0.6666178815, residual 3.7e-04 (555 s)
+[00:37:58 |  42.3 min]       Lanczos step 120: theta = 0.6666337285, residual 3.0e-04 (666 s)
+[00:39:49 |  44.1 min]       Lanczos step 140: theta = 0.6666397722, residual 2.0e-04 (777 s)
+[00:41:40 |  46.0 min]       Lanczos step 160: theta = 0.6666463658, residual 2.5e-04 (887 s)
+[00:43:31 |  47.8 min]       Lanczos step 180: theta = 0.6666503094, residual 1.4e-04 (998 s)
+[00:45:22 |  49.7 min]       Lanczos step 200: theta = 0.6666545841, residual 1.8e-04 (1109 s)
+[00:47:13 |  51.5 min]       Lanczos step 220: theta = 0.6666562360, residual 8.8e-05 (1221 s)
+[00:49:04 |  53.4 min]       Lanczos step 240: theta = 0.6666580475, residual 1.6e-04 (1331 s)
+[00:50:55 |  55.2 min]       Lanczos step 260: theta = 0.6666599951, residual 7.3e-05 (1442 s)
+[00:52:45 |  57.1 min]       Lanczos step 280: theta = 0.6666606844, residual 7.1e-05 (1552 s)
+[00:54:35 |  58.9 min]       Lanczos step 300: theta = 0.6666609560, residual 2.0e-05 (1662 s)
+[00:56:26 |  60.8 min]       Lanczos step 320: theta = 0.6666609873, residual 1.8e-05 (1774 s)
+[00:58:18 |  62.6 min]       Lanczos step 340: theta = 0.6666610205, residual 1.2e-05 (1885 s)
+[01:00:08 |  64.5 min]       Lanczos step 360: theta = 0.6666610368, residual 1.1e-05 (1995 s)
+[01:01:59 |  66.3 min]       Lanczos step 380: theta = 0.6666610531, residual 1.3e-05 (2107 s)
+[01:03:51 |  68.2 min]       Lanczos step 400: theta = 0.6666611632, residual 5.5e-05 (2218 s)
+[01:03:51 |  68.2 min]   BF_6: ||Phi_9|| = 0.66666116   (residual 5.5e-05, 400 Lanczos steps, leak 5.3e-13, 2218 s)
+[01:03:51 |  68.2 min] === H_6^q, q random, level 9 (dimension 10077696) ===
+[01:05:53 |  70.2 min]       Lanczos step 20: theta = 0.6763356492, residual 1.6e-02 (111 s)
+[01:07:44 |  72.1 min]       Lanczos step 40: theta = 0.6811861129, residual 3.4e-04 (222 s)
+[01:09:35 |  73.9 min]       Lanczos step 60: theta = 0.6811874069, residual 2.5e-06 (332 s)
+[01:11:26 |  75.8 min]       Lanczos step 80: theta = 0.6811874069, residual 6.8e-09 (444 s)
+[01:12:22 |  76.7 min]   H_6^q, q random: ||Phi_9|| = 0.68118741   (residual 3.5e-10, 90 Lanczos steps, leak 4.2e-14, 499 s)
+[01:12:22 |  76.7 min] === H_6^q, q = 1, level 9 (dimension 10077696) ===
+[01:14:25 |  78.7 min]       Lanczos step 20: theta = 0.6625770405, residual 1.0e-02 (111 s)
+[01:16:16 |  80.6 min]       Lanczos step 40: theta = 0.6665563734, residual 2.2e-03 (222 s)
+[01:18:17 |  82.6 min]       Lanczos step 60: theta = 0.6666656720, residual 1.8e-04 (343 s)
+[01:20:33 |  84.9 min]       Lanczos step 80: theta = 0.6666666646, residual 1.1e-05 (479 s)
+[01:22:39 |  87.0 min]       Lanczos step 100: theta = 0.6666666667, residual 7.2e-07 (605 s)
+[01:24:46 |  89.1 min]       Lanczos step 120: theta = 0.6666666667, residual 2.8e-08 (731 s)
+[01:26:46 |  91.1 min]       Lanczos step 140: theta = 0.6666666667, residual 5.3e-10 (852 s)
+[01:26:46 |  91.1 min]   H_6^q, q = 1: ||Phi_9|| = 0.66666667   (residual 5.3e-10, 140 Lanczos steps, leak 8.8e-14, 852 s)
+[01:26:46 |  91.1 min] === BN_6^q, q random on arc, level 9 (dimension 10077696) ===
+[01:28:57 |  93.3 min]       Lanczos step 20: theta = 0.6956705414, residual 1.3e-02 (119 s)
+[01:30:59 |  95.3 min]       Lanczos step 40: theta = 0.6999150723, residual 2.7e-04 (241 s)
+[01:33:02 |  97.3 min]       Lanczos step 60: theta = 0.6999158093, residual 9.8e-07 (363 s)
+[01:35:02 |  99.4 min]       Lanczos step 80: theta = 0.6999158093, residual 3.7e-09 (484 s)
+[01:35:33 |  99.9 min]   BN_6^q, q random on arc: ||Phi_9|| = 0.69991581   (residual 9.2e-10, 85 Lanczos steps, leak 4.2e-14, 515 s)
+[01:35:33 |  99.9 min] === BN_6^q, q = i (D_6), level 9 (dimension 10077696) ===
+[01:37:43 | 102.0 min]       Lanczos step 20: theta = 0.6625770405, residual 1.0e-02 (117 s)
+[01:39:44 | 104.0 min]       Lanczos step 40: theta = 0.6665563734, residual 2.2e-03 (238 s)
+[01:41:46 | 106.1 min]       Lanczos step 60: theta = 0.6666656720, residual 1.8e-04 (360 s)
+[01:43:47 | 108.1 min]       Lanczos step 80: theta = 0.6666666646, residual 1.1e-05 (482 s)
+[01:45:45 | 110.1 min]       Lanczos step 100: theta = 0.6666666667, residual 7.2e-07 (600 s)
+[01:47:40 | 112.0 min]       Lanczos step 120: theta = 0.6666666667, residual 2.8e-08 (714 s)
+[01:49:36 | 113.9 min]       Lanczos step 140: theta = 0.6666666667, residual 5.3e-10 (831 s)
+[01:49:36 | 113.9 min]   BN_6^q, q = i (D_6): ||Phi_9|| = 0.66666667   (residual 5.3e-10, 140 Lanczos steps, leak 8.8e-14, 831 s)
+[01:49:36 | 113.9 min] === K_6, random, level 9 (dimension 10077696) ===
+[01:51:49 | 116.1 min]       Lanczos step 20: theta = 0.7941382465, residual 7.2e-03 (120 s)
+[01:53:52 | 118.2 min]       Lanczos step 40: theta = 0.7945616751, residual 1.1e-06 (244 s)
+[01:55:22 | 119.7 min]   K_6, random: ||Phi_9|| = 0.79456168   (residual 8.2e-10, 55 Lanczos steps, leak 2.0e-14, 334 s)
+[01:55:22 | 119.7 min] all jobs done.
