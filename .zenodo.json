@@ -1,0 +1,18 @@
+"Higher invariants of complex Hadamard matrices"
+description	"Paper (58 pages, PDF and LaTeX source) and the complete code behind its computations. Associated to any complex Hadamard matrix H is a quantum permutation group G &sub; S<sub>N</sub><sup>+</sup>, and its invariants c<sub>k</sub> are the dimensions of the relative commutants of the subfactor associated to H. We compute these invariants well beyond the levels k = 2, 3 previously known, up to k = 9 in the best cases, by using Jones-Wenzl and annular decompositions. For the Di&#355;&#259; deformations of the Fourier matrices we compute G for all values of the parameters, and we study the order 8 families F<sub>8,5</sub>, in connection with free wreath products. For the matrices of small order with c<sub>2</sub> = 2, such as the Karlsson ones at generic parameters, we find c<sub>k</sub> = Cat<sub>k</sub> at all the levels computed. Finally, via an integrality principle and character sums, we prove that the Paley II matrices, and more generally those coming from symmetric conference matrices, have infinite depth, as well as the Paley I matrices with 11 &le; q &lt; 10<sup>5</sup>."
+upload_type	"publication"
+publication_type	"preprint"
+creators	
+0	
+name	"Banica, Teo"
+orcid	"0000-0003-4680-0364"
+1	
+name	"Opus, Claude"
+keywords	
+0	"complex Hadamard matrices"
+1	"quantum permutation groups"
+2	"subfactors"
+3	"Temperley-Lieb algebra"
+4	"Jones-Wenzl projections"
+5	"deformed Fourier matrices"
+6	"Paley matrices"
