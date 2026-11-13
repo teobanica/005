@@ -1,0 +1,35 @@
+P12 (unique class, H~H^t)        N=12 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+P12 (unique class, H~H^t)        N=12 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.1852  seeded 2  0.0s
+P12 (unique class, H~H^t)        N=12 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.3086  seeded 5  0.0s
+P12 (unique class, H~H^t)        N=12 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.3992  seeded 14  2.6s
+had20.0 = P20^2 = W20 (H~H^t)    N=20 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had20.0 = P20^2 = W20 (H~H^t)    N=20 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.3920  seeded 2  0.0s
+had20.0 = P20^2 = W20 (H~H^t)    N=20 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.4624  seeded 5  0.3s
+had20.0 = P20^2 = W20 (H~H^t)    N=20 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.5084  seeded 14  41.5s
+had20.1 (H~H^t)                  N=20 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had20.1 (H~H^t)                  N=20 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.3920  seeded 2  0.0s
+had20.1 (H~H^t)                  N=20 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.3920  seeded 5  0.2s
+had20.1 (H~H^t)                  N=20 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.3920  seeded 14  40.2s
+had20.2 = P20^1 (H~H^t)          N=20 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had20.2 = P20^1 (H~H^t)          N=20 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.2919  seeded 2  0.0s
+had20.2 = P20^1 (H~H^t)          N=20 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.2919  seeded 5  0.4s
+had20.2 = P20^1 (H~H^t)          N=20 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.2919  seeded 14  57.2s
+P24^1 (H~H^t)                    N=24 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+P24^1 (H~H^t)                    N=24 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.2073  seeded 2  0.0s
+P24^1 (H~H^t)                    N=24 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.2073  seeded 5  1.0s
+P24^1 (H~H^t)                    N=24 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.2396  seeded 14  191.6s
+P28^1 (H~H^t)                    N=28 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+P28^1 (H~H^t)                    N=28 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.2004  seeded 2  0.1s
+P28^1 (H~H^t)                    N=28 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.2004  seeded 5  2.1s
+P28^1 (H~H^t)                    N=28 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.2004  seeded 14  451.2s
+P28^2 = W28 (H~H^t)              N=28 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+P28^2 = W28 (H~H^t)              N=28 k=2 c_k=   2 (Cat=2)  next eigenvalue 0.5277  seeded 2  0.1s
+P28^2 = W28 (H~H^t)              N=28 k=3 c_k=   5 (Cat=5)  next eigenvalue 0.5702  seeded 5  1.3s
+P28^2 = W28 (H~H^t)              N=28 k=4 c_k=  14 (Cat=14)  next eigenvalue 0.5702  seeded 14  251.6s
+had16.0 = W16 (H~H^t)            N=16 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had16.0 = W16 (H~H^t)            N=16 k=2 c_k=  16 (Cat=2)  next eigenvalue 0.0000  seeded 2  0.0s
+had16.0 = W16 (H~H^t)            N=16 k=3 c_k= 256 (Cat=5)  next eigenvalue 0.0000  seeded 89  35.3s
+had16.0 = W16 (H~H^t)            N=16 k=4 c_k=4096 (Fourier, known, not recomputed)
+had16.1 (H~H^t)                  N=16 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had16.1 (H~H^t)                  N=16 k=2 c_k=   7 (Cat=2)  next eigenvalue 0.5000  seeded 2  0.0s
+had16.1 (H~H^t)                  N=16 k=3 c_k=  58 (Cat=5)  next eigenvalue 0.5000  seeded 35  1.1s

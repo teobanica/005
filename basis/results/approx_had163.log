@@ -1,0 +1,28 @@
+     0s had_16.3 c_1 = 1   (next 0.0000, seeds 0)
+     0s had_16.3 c_2 = 3   (next 0.6768, seeds 2)
+     0s had_16.3 c_3 = 11   (next 0.7500, seeds 11)
+    77s had_16.3 c_4 = 46   (next 0.8750, seeds 45)
+   105s   seeds verified so far: 20 (candidates looked at: 31)
+   151s   seeds verified so far: 40 (candidates looked at: 155)
+   179s   seeds verified so far: 60 (candidates looked at: 175)
+   221s   seeds verified so far: 80 (candidates looked at: 229)
+   317s   seeds verified so far: 100 (candidates looked at: 414)
+   354s   seeds verified so far: 120 (candidates looked at: 444)
+   602s   seeds verified so far: 140 (candidates looked at: 869)
+   713s   seeds verified so far: 160 (candidates looked at: 1028)
+   783s   seeds verified so far: 180 (candidates looked at: 1108)
+   844s   seeds verified so far: 200 (candidates looked at: 1148)
+  1243s   seeding done: 207 fixed vectors; random block of 40 on the complement
+  1459s   filter step 5/50
+  1667s   filter step 10/50
+  1889s   filter step 15/50
+  2122s   filter step 20/50
+  2360s   filter step 25/50
+  2598s   filter step 30/50
+  2832s   filter step 35/50
+  3066s   filter step 40/50
+  3299s   filter step 45/50
+  3531s   filter step 50/50
+  3581s   block 40: 5 extra fixed vectors, next Ritz value 0.0425, max residual 4.3e-08
+  3585s had_16.3 c_5 = 212   (next 0.0425, seeds 207)
+  3585s done

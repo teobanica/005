@@ -1,0 +1,57 @@
+F_6^(rs) = F_2 x_Q F_3     generic 0: H [1, 4, 18, 86]  H^t [1, 4, 18, 86]  gap 8.99e-02
+F_6^(rs) = F_2 x_Q F_3     generic 1: H [1, 4, 18, 86]  H^t [1, 4, 18, 86]  gap 1.93e-01
+F_6^(rs) = F_2 x_Q F_3     generic 2: H [1, 4, 18, 86]  H^t [1, 4, 18, 86]  gap 2.22e-01
+F_6^(rs) = F_2 x_Q F_3     scan: 138 points, 8 with jumps  (171s)
+F_6^(r/s) = F_3 x_Q F_2    generic 0: H [1, 4, 18, 86]  H^t [1, 4, 18, 86]  gap 1.01e-01
+F_6^(r/s) = F_3 x_Q F_2    generic 1: H [1, 4, 18, 86]  H^t [1, 4, 18, 86]  gap 1.83e-01
+F_6^(r/s) = F_3 x_Q F_2    generic 2: H [1, 4, 18, 86]  H^t [1, 4, 18, 86]  gap 2.11e-02
+F_6^(r/s) = F_3 x_Q F_2    scan: 138 points, 8 with jumps  (168s)
+F_2 x_Q F_4                generic 0: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 6.63e-02
+F_2 x_Q F_4                generic 1: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 1.13e-01
+F_2 x_Q F_4                generic 2: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 1.63e-01
+F_2 x_Q F_4                scan: 184 points, 2 with jumps  (124s)
+F_4 x_Q F_2                generic 0: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 1.19e-02
+F_4 x_Q F_2                generic 1: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 3.65e-02
+F_4 x_Q F_2                generic 2: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 5.31e-02
+F_4 x_Q F_2                scan: 184 points, 2 with jumps  (125s)
+F_2 x_Q W_4                generic 0: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 3.31e-05
+F_2 x_Q W_4                generic 1: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 9.67e-03
+F_2 x_Q W_4                generic 2: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 6.73e-04
+F_2 x_Q W_4                scan: 184 points, 2 with jumps  (123s)
+W_4 x_Q F_2                generic 0: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 2.01e-02
+W_4 x_Q F_2                generic 1: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 3.62e-02
+W_4 x_Q F_2                generic 2: H [1, 5, 28, 167]  H^t [1, 5, 28, 167]  gap 1.91e-03
+W_4 x_Q F_2                scan: 184 points, 2 with jumps  (121s)
+F_{8,5a}                   generic 0: H [1, 4, 19, 98]  H^t [1, 4, 19, 98]  gap 5.67e-03
+F_{8,5a}                   generic 1: H [1, 4, 19, 98]  H^t [1, 4, 19, 98]  gap 4.20e-02
+F_{8,5a}                   generic 2: H [1, 4, 19, 98]  H^t [1, 4, 19, 98]  gap 1.03e-01
+F_{8,5a}                   scan: 276 points, 4 with jumps  (132s)
+F_{8,5b}                   generic 0: H [1, 3, 11, 45]  H^t [1, 3, 11, 45]  gap 2.77e-02
+F_{8,5b}                   generic 1: H [1, 3, 11, 45]  H^t [1, 3, 11, 45]  gap 3.80e-03
+F_{8,5b}                   generic 2: H [1, 3, 11, 45]  H^t [1, 3, 11, 45]  gap 9.08e-02
+F_{8,5b}                   scan: 276 points, 4 with jumps  (132s)
+F_{8,5c}                   generic 0: H [1, 3, 11, 45]  H^t [1, 3, 11, 45]  gap 2.08e-02
+F_{8,5c}                   generic 1: H [1, 3, 11, 45]  H^t [1, 3, 11, 45]  gap 1.54e-01
+F_{8,5c}                   generic 2: H [1, 3, 11, 45]  H^t [1, 3, 11, 45]  gap 3.91e-03
+F_{8,5c}                   scan: 276 points, 48 with jumps  (132s)
+F_{8,4}                    generic 0: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 1.37e-01
+F_{8,4}                    generic 1: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 1.22e-02
+F_{8,4}                    generic 2: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 2.45e-01
+F_{8,4}                    scan: 230 points, 4 with jumps  (127s)
+F_{8,4}^t                  generic 0: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 1.59e-01
+F_{8,4}^t                  generic 1: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 3.30e-01
+F_{8,4}^t                  generic 2: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 1.40e-01
+F_{8,4}^t                  scan: 230 points, 4 with jumps  (126s)
+F_{8,2}                    generic 0: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 4.92e-02
+F_{8,2}                    generic 1: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 3.60e-01
+F_{8,2}                    generic 2: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 4.17e-01
+F_{8,2}                    scan: 138 points, 4 with jumps  (117s)
+F_{8,2}^t                  generic 0: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 4.77e-01
+F_{8,2}^t                  generic 1: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 5.16e-01
+F_{8,2}^t                  generic 2: H [1, 2, 5, 14]  H^t [1, 2, 5, 14]  gap 1.54e-01
+F_{8,2}^t                  scan: 138 points, 4 with jumps  (115s)
+F_3 x_Q F_3                generic 0: H [1, 5, 29, 181]  H^t [1, 5, 29, 181]  gap 1.16e-01
+F_3 x_Q F_3                generic 1: H [1, 5, 29, 181]  H^t [1, 5, 29, 181]  gap 1.78e-01
+F_3 x_Q F_3                generic 2: H [1, 5, 29, 181]  H^t [1, 5, 29, 181]  gap 1.93e-01
+F_3 x_Q F_3                scan: 230 points, 3 with jumps  (560s)
+done

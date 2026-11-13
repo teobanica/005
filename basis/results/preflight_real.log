@@ -1,0 +1,33 @@
+== H versus H^t
+P12^1 ~ P12^1^t: EQUIVALENT (mapping verified: True)  0.0s
+P12^2 ~ P12^2^t: EQUIVALENT (mapping verified: True)  0.0s
+W12 ~ W12^t: EQUIVALENT (mapping verified: True)  0.0s
+had16.0 ~ had16.0^t: EQUIVALENT (mapping verified: True)  0.0s
+had16.1 ~ had16.1^t: EQUIVALENT (mapping verified: True)  0.0s
+had16.2 ~ had16.2^t: EQUIVALENT (mapping verified: True)  0.0s
+had16.3 vs had16.3^t: NOT equivalent (exhaustive search)  55.4s
+had16.4 vs had16.4^t: NOT equivalent (exhaustive search)  57.8s
+had20.0 ~ had20.0^t: EQUIVALENT (mapping verified: True)  0.1s
+had20.1 ~ had20.1^t: EQUIVALENT (mapping verified: True)  0.1s
+had20.2 ~ had20.2^t: EQUIVALENT (mapping verified: True)  0.3s
+P20^1 ~ P20^1^t: EQUIVALENT (mapping verified: True)  2.3s
+P20^2 ~ P20^2^t: EQUIVALENT (mapping verified: True)  0.1s
+W20 ~ W20^t: EQUIVALENT (mapping verified: True)  0.1s
+P24^1 ~ P24^1^t: EQUIVALENT (mapping verified: True)  6.2s
+P28^1 ~ P28^1^t: EQUIVALENT (mapping verified: True)  15.3s
+P28^2 ~ P28^2^t: EQUIVALENT (mapping verified: True)  0.2s
+W28 ~ W28^t: EQUIVALENT (mapping verified: True)  0.2s
+
+== named constructions versus each other
+P12^1 ~ P12^2: EQUIVALENT (mapping verified: True)  0.0s
+P12^1 ~ W12: EQUIVALENT (mapping verified: True)  0.0s
+P20^1 vs had20.0: NOT equivalent (exhaustive search)  143.1s
+P20^1 vs had20.1: NOT equivalent (exhaustive search)  141.6s
+P20^1 ~ had20.2: EQUIVALENT (mapping verified: True)  0.1s
+P20^2 ~ had20.0: EQUIVALENT (mapping verified: True)  0.4s
+W20 ~ had20.0: EQUIVALENT (mapping verified: True)  0.1s
+P28^1 vs P28^2: NOT equivalent (4-profiles differ)  0.1s
+P28^1 vs W28: NOT equivalent (4-profiles differ)  0.1s
+P28^2 ~ W28: EQUIVALENT (mapping verified: True)  21.6s
+had16.3^t ~ had16.4: EQUIVALENT (mapping verified: True)  0.0s
+done

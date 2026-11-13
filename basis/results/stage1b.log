@@ -1,0 +1,13 @@
+had16.1 (H~H^t)                  N=16 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had16.1 (H~H^t)                  N=16 k=2 c_k=   7 (Cat=2)  next eigenvalue 0.5000  seeded 2  0.0s
+had16.1 (H~H^t)                  N=16 k=3 c_k=  58 (Cat=5)  next eigenvalue 0.5000  seeded 35  1.3s
+had16.2 (H~H^t)                  N=16 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had16.2 (H~H^t)                  N=16 k=2 c_k=   4 (Cat=2)  next eigenvalue 0.7500  seeded 2  0.0s
+had16.2 (H~H^t)                  N=16 k=3 c_k=  21 (Cat=5)  next eigenvalue 0.7500  seeded 17  0.2s
+had16.3 (= had16.4^t)            N=16 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had16.3 (= had16.4^t)            N=16 k=2 c_k=   3 (Cat=2)  next eigenvalue 0.6768  seeded 2  0.0s
+had16.3 (= had16.4^t)            N=16 k=3 c_k=  11 (Cat=5)  next eigenvalue 0.7500  seeded 11  0.1s
+had16.4 (= had16.3^t)            N=16 k=1 c_k=   1 (Cat=1)  next eigenvalue 0.0000  seeded 0  0.0s
+had16.4 (= had16.3^t)            N=16 k=2 c_k=   3 (Cat=2)  next eigenvalue 0.6768  seeded 2  0.0s
+had16.4 (= had16.3^t)            N=16 k=3 c_k=  11 (Cat=5)  next eigenvalue 0.7500  seeded 11  0.1s
+done

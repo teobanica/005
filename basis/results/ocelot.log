@@ -1,0 +1,206 @@
+[04:18:03 |   0.0 min] start; numpy 2.0.2, python 3.9.6; 4 jobs
+[04:18:03 |   0.0 min] === F_{8,5a} c_5 : c_1..c_5 ===
+[04:18:03 |   0.0 min] F_{8,5a} c_5  c_1 = 1   (next 0.0000, 0 from seeds, 0 s)
+[04:18:03 |   0.0 min] F_{8,5a} c_5  c_2 = 4   (next 0.9372, 2 from seeds, 0 s)
+[04:18:03 |   0.0 min] F_{8,5a} c_5  c_3 = 19   (next 0.9372, 17 from seeds, 0 s)
+[04:18:04 |   0.0 min] F_{8,5a} c_5  c_4 = 98   (next 0.9664, 98 from seeds, 1 s)
+[04:18:05 |   0.0 min]   seeds verified so far: 20 (candidates looked at: 26)
+[04:18:05 |   0.0 min]   seeds verified so far: 40 (candidates looked at: 96)
+[04:18:05 |   0.0 min]   seeds verified so far: 60 (candidates looked at: 116)
+[04:18:06 |   0.0 min]   seeds verified so far: 80 (candidates looked at: 136)
+[04:18:06 |   0.1 min]   seeds verified so far: 100 (candidates looked at: 156)
+[04:18:09 |   0.1 min]   seeds verified so far: 120 (candidates looked at: 265)
+[04:18:10 |   0.1 min]   seeds verified so far: 140 (candidates looked at: 291)
+[04:18:15 |   0.2 min]   seeds verified so far: 160 (candidates looked at: 536)
+[04:18:16 |   0.2 min]   seeds verified so far: 180 (candidates looked at: 556)
+[04:18:17 |   0.2 min]   seeds verified so far: 200 (candidates looked at: 576)
+[04:18:18 |   0.2 min]   seeds verified so far: 220 (candidates looked at: 596)
+[04:18:19 |   0.3 min]   seeds verified so far: 240 (candidates looked at: 616)
+[04:18:20 |   0.3 min]   seeds verified so far: 260 (candidates looked at: 636)
+[04:18:21 |   0.3 min]   seeds verified so far: 280 (candidates looked at: 656)
+[04:18:22 |   0.3 min]   seeds verified so far: 300 (candidates looked at: 686)
+[04:18:51 |   0.8 min]   seeds verified so far: 320 (candidates looked at: 1869)
+[04:18:54 |   0.8 min]   seeds verified so far: 340 (candidates looked at: 1983)
+[04:18:58 |   0.9 min]   seeds verified so far: 360 (candidates looked at: 2103)
+[04:18:59 |   0.9 min]   seeds verified so far: 380 (candidates looked at: 2123)
+[04:19:01 |   1.0 min]   seeds verified so far: 400 (candidates looked at: 2143)
+[04:19:10 |   1.1 min]   seeds verified so far: 420 (candidates looked at: 2336)
+[04:19:11 |   1.1 min]   seeds verified so far: 440 (candidates looked at: 2356)
+[04:19:14 |   1.2 min]   seeds verified so far: 460 (candidates looked at: 2396)
+[04:19:17 |   1.2 min]   seeds verified so far: 480 (candidates looked at: 2438)
+[04:19:19 |   1.3 min]   seeds verified so far: 500 (candidates looked at: 2459)
+[04:19:30 |   1.4 min]   seeds verified so far: 520 (candidates looked at: 2667)
+[04:20:15 |   2.2 min]   seeding done: 526 fixed vectors; random block of 60 on the complement
+[04:20:18 |   2.2 min]   filter step 5/50
+[04:20:21 |   2.3 min]   filter step 10/50
+[04:20:23 |   2.3 min]   filter step 15/50
+[04:20:26 |   2.4 min]   filter step 20/50
+[04:20:29 |   2.4 min]   filter step 25/50
+[04:20:32 |   2.5 min]   filter step 30/50
+[04:20:34 |   2.5 min]   filter step 35/50
+[04:20:37 |   2.6 min]   filter step 40/50
+[04:20:40 |   2.6 min]   filter step 45/50
+[04:20:43 |   2.7 min]   filter step 50/50
+[04:20:43 |   2.7 min]   block 60: 5 extra fixed vectors, next Ritz value 0.9664, max residual 9.0e-09
+[04:20:44 |   2.7 min] F_{8,5a} c_5  c_5 = 531   (next 0.9664, 526 from seeds, 160 s)
+[04:20:44 |   2.7 min] F_{8,5a} c_5 done: c = [1, 4, 19, 98, 531]
+[04:20:44 |   2.7 min] === had_16.1 c_4 : c_1..c_4 ===
+[04:20:44 |   2.7 min] had_16.1 c_4  c_1 = 1   (next 0.0000, 0 from seeds, 0 s)
+[04:20:44 |   2.7 min] had_16.1 c_4  c_2 = 7   (next 0.5000, 2 from seeds, 0 s)
+[04:20:46 |   2.7 min] had_16.1 c_4  c_3 = 58   (next 0.5000, 35 from seeds, 2 s)
+[04:20:47 |   2.7 min]   seeds verified so far: 20 (candidates looked at: 57)
+[04:20:48 |   2.7 min]   seeds verified so far: 40 (candidates looked at: 77)
+[04:20:48 |   2.8 min]   seeds verified so far: 60 (candidates looked at: 97)
+[04:20:49 |   2.8 min]   seeds verified so far: 80 (candidates looked at: 121)
+[04:20:50 |   2.8 min]   seeds verified so far: 100 (candidates looked at: 205)
+[04:20:53 |   2.8 min]   seeds verified so far: 120 (candidates looked at: 439)
+[04:20:53 |   2.8 min]   seeds verified so far: 140 (candidates looked at: 459)
+[04:20:54 |   2.9 min]   seeds verified so far: 160 (candidates looked at: 479)
+[04:20:55 |   2.9 min]   seeds verified so far: 180 (candidates looked at: 499)
+[04:20:58 |   2.9 min]   seeds verified so far: 200 (candidates looked at: 718)
+[04:21:00 |   2.9 min]   seeds verified so far: 220 (candidates looked at: 800)
+[04:21:00 |   3.0 min]   seeds verified so far: 240 (candidates looked at: 822)
+[04:21:01 |   3.0 min]   seeds verified so far: 260 (candidates looked at: 850)
+[04:21:02 |   3.0 min]   seeds verified so far: 280 (candidates looked at: 870)
+[04:21:03 |   3.0 min]   seeds verified so far: 300 (candidates looked at: 890)
+[04:21:04 |   3.0 min]   seeds verified so far: 320 (candidates looked at: 910)
+[04:21:05 |   3.0 min]   seeds verified so far: 340 (candidates looked at: 930)
+[04:21:06 |   3.1 min]   seeds verified so far: 360 (candidates looked at: 966)
+[04:21:08 |   3.1 min]   seeds verified so far: 380 (candidates looked at: 1008)
+[04:21:15 |   3.2 min]   seeding done: 385 fixed vectors; random block of 60 on the complement
+[04:21:28 |   3.4 min]   filter step 5/50
+[04:21:41 |   3.6 min]   filter step 10/50
+[04:21:54 |   3.8 min]   filter step 15/50
+[04:22:07 |   4.1 min]   filter step 20/50
+[04:22:19 |   4.3 min]   filter step 25/50
+[04:22:32 |   4.5 min]   filter step 30/50
+[04:22:45 |   4.7 min]   filter step 35/50
+[04:22:58 |   4.9 min]   filter step 40/50
+[04:23:11 |   5.1 min]   filter step 45/50
+[04:23:24 |   5.4 min]   filter step 50/50
+[04:23:30 |   5.4 min]   block 60: 60 extra fixed vectors, next Ritz value nan, max residual 7.9e-09
+[04:23:57 |   5.9 min]   filter step 5/50
+[04:24:24 |   6.3 min]   filter step 10/50
+[04:24:50 |   6.8 min]   filter step 15/50
+[04:25:17 |   7.2 min]   filter step 20/50
+[04:25:44 |   7.7 min]   filter step 25/50
+[04:26:11 |   8.1 min]   filter step 30/50
+[04:26:38 |   8.6 min]   filter step 35/50
+[04:27:04 |   9.0 min]   filter step 40/50
+[04:27:31 |   9.5 min]   filter step 45/50
+[04:27:57 |   9.9 min]   filter step 50/50
+[04:28:08 |  10.1 min]   block 120: 120 extra fixed vectors, next Ritz value nan, max residual 1.4e-08
+[04:29:08 |  11.1 min]   filter step 5/50
+[04:30:07 |  12.1 min]   filter step 10/50
+[04:31:06 |  13.0 min]   filter step 15/50
+[04:32:05 |  14.0 min]   filter step 20/50
+[04:33:04 |  15.0 min]   filter step 25/50
+[04:34:04 |  16.0 min]   filter step 30/50
+[04:35:03 |  17.0 min]   filter step 35/50
+[04:36:02 |  18.0 min]   filter step 40/50
+[04:37:01 |  19.0 min]   filter step 45/50
+[04:38:01 |  20.0 min]   filter step 50/50
+[04:38:19 |  20.3 min]   block 240: 183 extra fixed vectors, next Ritz value 0.0490, max residual 1.4e-08
+[04:38:23 |  20.3 min] had_16.1 c_4  c_4 = 568   (next 0.0490, 385 from seeds, 1057 s)
+[04:38:23 |  20.3 min] had_16.1 c_4 done: c = [1, 7, 58, 568]
+[04:38:23 |  20.3 min] === had_16.4 c_5 : c_1..c_5 ===
+[04:38:23 |  20.3 min] had_16.4 c_5  c_1 = 1   (next 0.0000, 0 from seeds, 0 s)
+[04:38:23 |  20.3 min] had_16.4 c_5  c_2 = 3   (next 0.6768, 2 from seeds, 0 s)
+[04:38:23 |  20.3 min] had_16.4 c_5  c_3 = 11   (next 0.7500, 11 from seeds, 0 s)
+[04:39:13 |  21.2 min] had_16.4 c_5  c_4 = 46   (next 0.8750, 45 from seeds, 50 s)
+[04:39:29 |  21.4 min]   seeds verified so far: 20 (candidates looked at: 31)
+[04:39:52 |  21.8 min]   seeds verified so far: 40 (candidates looked at: 155)
+[04:40:08 |  22.1 min]   seeds verified so far: 60 (candidates looked at: 175)
+[04:40:28 |  22.4 min]   seeds verified so far: 80 (candidates looked at: 229)
+[04:41:02 |  23.0 min]   seeds verified so far: 100 (candidates looked at: 414)
+[04:41:21 |  23.3 min]   seeds verified so far: 120 (candidates looked at: 444)
+[04:42:35 |  24.5 min]   seeds verified so far: 140 (candidates looked at: 884)
+[04:43:10 |  25.1 min]   seeds verified so far: 160 (candidates looked at: 1028)
+[04:43:42 |  25.7 min]   seeds verified so far: 180 (candidates looked at: 1113)
+[04:44:10 |  26.1 min]   seeds verified so far: 200 (candidates looked at: 1148)
+[04:46:19 |  28.3 min]   seeding done: 207 fixed vectors; random block of 40 on the complement
+[04:49:33 |  31.5 min]   filter step 5/50
+[04:52:44 |  34.7 min]   filter step 10/50
+[04:55:57 |  37.9 min]   filter step 15/50
+[04:59:09 |  41.1 min]   filter step 20/50
+[05:02:22 |  44.3 min]   filter step 25/50
+[05:05:35 |  47.5 min]   filter step 30/50
+[05:08:47 |  50.7 min]   filter step 35/50
+[05:11:59 |  53.9 min]   filter step 40/50
+[05:15:11 |  57.1 min]   filter step 45/50
+[05:18:23 |  60.3 min]   filter step 50/50
+[05:18:58 |  60.9 min]   block 40: 5 extra fixed vectors, next Ritz value 0.0424, max residual 4.5e-08
+[05:19:01 |  61.0 min] had_16.4 c_5  c_5 = 212   (next 0.0424, 207 from seeds, 2388 s)
+[05:19:01 |  61.0 min] had_16.4 c_5 done: c = [1, 3, 11, 46, 212]
+[05:19:01 |  61.0 min] === F_{8,5b} c_6 : c_1..c_6 ===
+[05:19:01 |  61.0 min] F_{8,5b} c_6  c_1 = 1   (next 0.0000, 0 from seeds, 0 s)
+[05:19:01 |  61.0 min] F_{8,5b} c_6  c_2 = 3   (next 0.9771, 2 from seeds, 0 s)
+[05:19:01 |  61.0 min] F_{8,5b} c_6  c_3 = 11   (next 0.9771, 11 from seeds, 0 s)
+[05:19:01 |  61.0 min] F_{8,5b} c_6  c_4 = 45   (next 0.9861, 45 from seeds, 1 s)
+[05:19:02 |  61.0 min]   seeds verified so far: 20 (candidates looked at: 26)
+[05:19:02 |  61.0 min]   seeds verified so far: 40 (candidates looked at: 96)
+[05:19:03 |  61.0 min]   seeds verified so far: 60 (candidates looked at: 116)
+[05:19:04 |  61.0 min]   seeds verified so far: 80 (candidates looked at: 210)
+[05:19:07 |  61.1 min]   seeds verified so far: 100 (candidates looked at: 355)
+[05:19:07 |  61.1 min]   seeds verified so far: 120 (candidates looked at: 385)
+[05:19:18 |  61.2 min]   seeds verified so far: 140 (candidates looked at: 869)
+[05:19:21 |  61.3 min]   seeds verified so far: 160 (candidates looked at: 998)
+[05:19:24 |  61.3 min]   seeds verified so far: 180 (candidates looked at: 1093)
+[05:19:36 |  61.5 min]   seeding done: 197 fixed vectors; random block of 40 on the complement
+[05:19:38 |  61.6 min]   filter step 5/50
+[05:19:40 |  61.6 min]   filter step 10/50
+[05:19:41 |  61.6 min]   filter step 15/50
+[05:19:43 |  61.7 min]   filter step 20/50
+[05:19:45 |  61.7 min]   filter step 25/50
+[05:19:47 |  61.7 min]   filter step 30/50
+[05:19:49 |  61.8 min]   filter step 35/50
+[05:19:50 |  61.8 min]   filter step 40/50
+[05:19:52 |  61.8 min]   filter step 45/50
+[05:19:54 |  61.8 min]   filter step 50/50
+[05:19:54 |  61.9 min]   block 40: 0 extra fixed vectors, next Ritz value 0.9859, max residual 0.0e+00
+[05:19:54 |  61.9 min] F_{8,5b} c_6  c_5 = 197   (next 0.9859, 197 from seeds, 53 s)
+[05:19:59 |  61.9 min]   seeds verified so far: 20 (candidates looked at: 26)
+[05:20:27 |  62.4 min]   seeds verified so far: 40 (candidates looked at: 426)
+[05:20:59 |  62.9 min]   seeds verified so far: 60 (candidates looked at: 737)
+[05:21:19 |  63.3 min]   seeds verified so far: 80 (candidates looked at: 889)
+[05:21:44 |  63.7 min]   seeds verified so far: 100 (candidates looked at: 1047)
+[05:22:35 |  64.5 min]   seeds verified so far: 120 (candidates looked at: 1337)
+[05:23:14 |  65.2 min]   seeds verified so far: 140 (candidates looked at: 1489)
+[05:24:46 |  66.7 min]   seeds verified so far: 160 (candidates looked at: 1923)
+[05:25:33 |  67.5 min]   seeds verified so far: 180 (candidates looked at: 2122)
+[05:27:14 |  69.2 min]   seeds verified so far: 200 (candidates looked at: 2571)
+[05:27:52 |  69.8 min]   seeds verified so far: 220 (candidates looked at: 2723)
+[05:29:42 |  71.7 min]   seeds verified so far: 240 (candidates looked at: 3019)
+[05:31:26 |  73.4 min]   seeds verified so far: 260 (candidates looked at: 3171)
+[05:33:38 |  75.6 min]   seeds verified so far: 280 (candidates looked at: 3455)
+[05:34:29 |  76.4 min]   seeds verified so far: 300 (candidates looked at: 3610)
+[05:36:31 |  78.5 min]   seeds verified so far: 320 (candidates looked at: 3771)
+[05:38:19 |  80.3 min]   seeds verified so far: 340 (candidates looked at: 3958)
+[05:41:36 |  83.5 min]   seeds verified so far: 360 (candidates looked at: 4263)
+[05:42:05 |  84.0 min]   seeds verified so far: 380 (candidates looked at: 4283)
+[05:44:21 |  86.3 min]   seeds verified so far: 400 (candidates looked at: 4423)
+[05:47:19 |  89.3 min]   seeds verified so far: 420 (candidates looked at: 4563)
+[05:47:50 |  89.8 min]   seeds verified so far: 440 (candidates looked at: 4583)
+[05:51:01 |  93.0 min]   seeds verified so far: 460 (candidates looked at: 4723)
+[05:54:27 |  96.4 min]   seeds verified so far: 480 (candidates looked at: 4863)
+[05:55:08 |  97.1 min]   seeds verified so far: 500 (candidates looked at: 4883)
+[05:58:50 | 100.8 min]   seeds verified so far: 520 (candidates looked at: 5023)
+[06:03:09 | 105.1 min]   seeds verified so far: 540 (candidates looked at: 5163)
+[06:04:03 | 106.0 min]   seeds verified so far: 560 (candidates looked at: 5183)
+[06:08:25 | 110.4 min]   seeds verified so far: 580 (candidates looked at: 5323)
+[06:13:13 | 115.2 min]   seeds verified so far: 600 (candidates looked at: 5463)
+[06:14:13 | 116.2 min]   seeds verified so far: 620 (candidates looked at: 5483)
+[06:19:03 | 121.0 min]   seeds verified so far: 640 (candidates looked at: 5623)
+[06:25:01 | 127.0 min]   seeds verified so far: 660 (candidates looked at: 5763)
+[06:26:14 | 128.2 min]   seeds verified so far: 680 (candidates looked at: 5783)
+[06:37:30 | 139.5 min]   seeds verified so far: 700 (candidates looked at: 6103)
+[06:51:30 | 153.4 min]   seeds verified so far: 720 (candidates looked at: 6447)
+[06:56:22 | 158.3 min]   seeds verified so far: 740 (candidates looked at: 6565)
+[07:03:18 | 165.2 min]   seeds verified so far: 760 (candidates looked at: 6725)
+[07:05:46 | 167.7 min]   seeds verified so far: 780 (candidates looked at: 6774)
+[07:08:00 | 170.0 min]   seeds verified so far: 800 (candidates looked at: 6812)
+[07:14:06 | 176.1 min]   seeds verified so far: 820 (candidates looked at: 6913)
+[07:20:42 | 182.6 min]   seeds verified so far: 840 (candidates looked at: 7017)
+[07:24:19 | 186.3 min]   seeds verified so far: 860 (candidates looked at: 7067)
+[07:26:02 | 188.0 min]   seeds verified so far: 880 (candidates looked at: 7087)
+[11:18:03 | 420.0 min] 7 hours reached, stopping. Results so far are in ocelot-output/ocelot.json

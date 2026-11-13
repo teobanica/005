@@ -1,0 +1,142 @@
+== Fourier matrices, expected c_k = N^(k-1)
+F_2        k=1 c_k=    1 expected     1 ok  gap=(1.6e-16,1.0e+00) 0.0s
+F_2        k=2 c_k=    2 expected     2 ok  gap=(4.7e-16,1.0e+00) 0.0s
+F_2        k=3 c_k=    4 expected     4 ok  gap=(6.8e-16,1.0e+00) 0.0s
+F_2        k=4 c_k=    8 expected     8 ok  gap=(1.0e-15,1.0e+00) 0.0s
+F_3        k=1 c_k=    1 expected     1 ok  gap=(1.3e-16,1.0e+00) 0.0s
+F_3        k=2 c_k=    3 expected     3 ok  gap=(5.2e-16,1.0e+00) 0.0s
+F_3        k=3 c_k=    9 expected     9 ok  gap=(7.7e-16,1.0e+00) 0.0s
+F_3        k=4 c_k=   27 expected    27 ok  gap=(1.2e-15,1.0e+00) 0.0s
+F_4        k=1 c_k=    1 expected     1 ok  gap=(1.1e-16,1.0e+00) 0.0s
+F_4        k=2 c_k=    4 expected     4 ok  gap=(8.3e-17,1.0e+00) 0.0s
+F_4        k=3 c_k=   16 expected    16 ok  gap=(3.0e-16,1.0e+00) 0.0s
+F_4        k=4 c_k=   64 expected    64 ok  gap=(5.9e-16,1.0e+00) 0.0s
+F_5        k=1 c_k=    1 expected     1 ok  gap=(1.1e-16,1.0e+00) 0.0s
+F_5        k=2 c_k=    5 expected     5 ok  gap=(3.8e-16,1.0e+00) 0.0s
+F_5        k=3 c_k=   25 expected    25 ok  gap=(4.7e-16,1.0e+00) 0.0s
+F_5        k=4 c_k=  125 expected   125 ok  gap=(1.1e-15,1.0e+00) 0.2s
+F_6        k=1 c_k=    1 expected     1 ok  gap=(2.9e-16,1.0e+00) 0.0s
+F_6        k=2 c_k=    6 expected     6 ok  gap=(5.2e-16,1.0e+00) 0.0s
+F_6        k=3 c_k=   36 expected    36 ok  gap=(1.0e-15,1.0e+00) 0.0s
+F_6        k=4 c_k=  216 expected   216 ok  gap=(2.4e-15,1.0e+00) 1.7s
+F_7        k=1 c_k=    1 expected     1 ok  gap=(2.7e-16,1.0e+00) 0.0s
+F_7        k=2 c_k=    7 expected     7 ok  gap=(5.1e-16,1.0e+00) 0.0s
+F_7        k=3 c_k=   49 expected    49 ok  gap=(1.1e-15,1.0e+00) 0.0s
+F_7        k=4 c_k=  343 expected   343 ok  gap=(1.9e-15,1.0e+00) 8.1s
+F_8        k=1 c_k=    1 expected     1 ok  gap=(1.1e-16,1.0e+00) 0.0s
+F_8        k=2 c_k=    8 expected     8 ok  gap=(3.6e-16,1.0e+00) 0.0s
+F_8        k=3 c_k=   64 expected    64 ok  gap=(8.4e-16,1.0e+00) 0.1s
+F_8        k=4 c_k=  512 expected   512 ok  gap=(1.8e-15,1.0e+00) 48.1s
+F_2^2      k=1 c_k=    1 expected     1 ok  gap=(1.1e-16,1.0e+00) 0.0s
+F_2^2      k=2 c_k=    4 expected     4 ok  gap=(8.3e-17,1.0e+00) 0.0s
+F_2^2      k=3 c_k=   16 expected    16 ok  gap=(2.2e-16,1.0e+00) 0.0s
+F_2^2      k=4 c_k=   64 expected    64 ok  gap=(6.9e-16,1.0e+00) 0.0s
+F_2^3      k=1 c_k=    1 expected     1 ok  gap=(5.9e-17,1.0e+00) 0.0s
+F_2^3      k=2 c_k=    8 expected     8 ok  gap=(2.4e-16,1.0e+00) 0.0s
+F_2^3      k=3 c_k=   64 expected    64 ok  gap=(7.2e-16,1.0e+00) 0.1s
+F_2^3      k=4 c_k=  512 expected   512 ok  gap=(1.3e-15,1.0e+00) 46.3s
+F_2 x F_4  k=1 c_k=    1 expected     1 ok  gap=(5.9e-17,1.0e+00) 0.0s
+F_2 x F_4  k=2 c_k=    8 expected     8 ok  gap=(3.0e-16,1.0e+00) 0.0s
+F_2 x F_4  k=3 c_k=   64 expected    64 ok  gap=(8.2e-16,1.0e+00) 0.1s
+F_2 x F_4  k=4 c_k=  512 expected   512 ok  gap=(1.3e-15,1.0e+00) 45.4s
+
+== F_4^s, s = e(a/n), n <= 12, gcd(a,n)=1, plus 3 random points; H and H^t
+s=e(0/1)                 H  c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.7e+15
+s=e(0/1)                 Ht c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.7e+15
+s=e(1/2)                 H  c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.6e+15
+s=e(1/2)                 Ht c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.4e+15
+s=e(1/3)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.2e+14
+s=e(1/3)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.8e+14
+s=e(2/3)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.4e+14
+s=e(2/3)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.8e+14
+s=e(1/4)                 H  c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.6e+15
+s=e(1/4)                 Ht c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.1e+15
+s=e(3/4)                 H  c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.6e+15
+s=e(3/4)                 Ht c_1..c_4 = [1, 4, 16, 64]  min gap ratio 1.5e+15
+s=e(1/5)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.1e+14
+s=e(1/5)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.7e+14
+s=e(2/5)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.9e+14
+s=e(2/5)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.7e+14
+s=e(3/5)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.0e+14
+s=e(3/5)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.9e+14
+s=e(4/5)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.7e+14
+s=e(4/5)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.7e+14
+s=e(1/6)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.5e+14
+s=e(1/6)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.9e+14
+s=e(5/6)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.5e+14
+s=e(5/6)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.9e+14
+s=e(1/7)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.0e+14
+s=e(1/7)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.0e+14
+s=e(2/7)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.1e+14
+s=e(2/7)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 9.9e+13
+s=e(3/7)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.9e+14
+s=e(3/7)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.8e+14
+s=e(4/7)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.4e+14
+s=e(4/7)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.2e+14
+s=e(5/7)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.0e+14
+s=e(5/7)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 8.8e+13
+s=e(6/7)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.1e+14
+s=e(6/7)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 9.0e+13
+s=e(1/8)                 H  c_1..c_4 = [1, 3, 10, 36]  min gap ratio 6.3e+14
+s=e(1/8)                 Ht c_1..c_4 = [1, 3, 10, 36]  min gap ratio 8.6e+14
+s=e(3/8)                 H  c_1..c_4 = [1, 3, 10, 36]  min gap ratio 1.1e+15
+s=e(3/8)                 Ht c_1..c_4 = [1, 3, 10, 36]  min gap ratio 1.2e+15
+s=e(5/8)                 H  c_1..c_4 = [1, 3, 10, 36]  min gap ratio 8.9e+14
+s=e(5/8)                 Ht c_1..c_4 = [1, 3, 10, 36]  min gap ratio 1.1e+15
+s=e(7/8)                 H  c_1..c_4 = [1, 3, 10, 36]  min gap ratio 9.6e+14
+s=e(7/8)                 Ht c_1..c_4 = [1, 3, 10, 36]  min gap ratio 1.0e+15
+s=e(1/9)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.3e+13
+s=e(1/9)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 6.1e+13
+s=e(2/9)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 6.4e+13
+s=e(2/9)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.3e+13
+s=e(4/9)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.0e+14
+s=e(4/9)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.3e+14
+s=e(5/9)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.6e+14
+s=e(5/9)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.9e+14
+s=e(7/9)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 6.3e+13
+s=e(7/9)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 6.2e+13
+s=e(8/9)                 H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.8e+13
+s=e(8/9)                 Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.6e+13
+s=e(1/10)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.7e+14
+s=e(1/10)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.0e+14
+s=e(3/10)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.7e+14
+s=e(3/10)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.0e+14
+s=e(7/10)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.2e+14
+s=e(7/10)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.3e+14
+s=e(9/10)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.6e+14
+s=e(9/10)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 2.0e+14
+s=e(1/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.7e+14
+s=e(1/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.6e+14
+s=e(2/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.0e+14
+s=e(2/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.4e+14
+s=e(3/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.1e+13
+s=e(3/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.0e+13
+s=e(4/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.0e+13
+s=e(4/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.9e+13
+s=e(5/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.4e+14
+s=e(5/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.4e+14
+s=e(6/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.5e+14
+s=e(6/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 1.6e+14
+s=e(7/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.9e+13
+s=e(7/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.2e+13
+s=e(8/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.6e+13
+s=e(8/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.3e+13
+s=e(9/11)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.4e+14
+s=e(9/11)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.5e+14
+s=e(10/11)               H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.6e+14
+s=e(10/11)               Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.6e+14
+s=e(1/12)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.3e+14
+s=e(1/12)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.2e+14
+s=e(5/12)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.0e+14
+s=e(5/12)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.2e+14
+s=e(7/12)                H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 4.5e+14
+s=e(7/12)                Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.3e+14
+s=e(11/12)               H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.0e+14
+s=e(11/12)               Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.3e+14
+s=random e(0.178935)     H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.6e+14
+s=random e(0.178935)     Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 3.0e+14
+s=random e(0.639913)     H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 5.4e+13
+s=random e(0.639913)     Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 7.1e+13
+s=random e(0.467268)     H  c_1..c_4 = [1, 3, 10, 35]  min gap ratio 8.5e+13
+s=random e(0.467268)     Ht c_1..c_4 = [1, 3, 10, 35]  min gap ratio 7.9e+13
+done
