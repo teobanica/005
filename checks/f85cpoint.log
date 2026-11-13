@@ -1,0 +1,5 @@
+exact Hadamard check: ok
+profile graph: 3 components, of sizes [8, 8, 48], so c_2 = 3
+size 2x4: 0 block structures
+size 4x2: row groups [(0, 3), (1, 5), (2, 4), (6, 7)], column agreement classes [(0, 1, 6, 7), (2, 3, 4, 5)]; outer Haagerup sets equal: False, exponents (mod 202) [0, 8, 93, 101, 109, 194] / [0, 2, 99, 101, 103, 200]
+size 4x2: 1 block structures
