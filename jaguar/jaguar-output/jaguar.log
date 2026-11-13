@@ -1,0 +1,170 @@
+[01:15:13 |   0.0 min] start; numpy 2.0.2, python 3.9.6; 24 jobs. Jones-Wenzl counts e_k, levels 6 to 8.
+[01:15:13 |   0.0 min] === P_7^q, q = 1, level 6 (dimension 117649), block 8 ===
+[01:15:19 |   0.1 min]     filter step 10/50
+[01:15:25 |   0.2 min]     filter step 20/50
+[01:15:30 |   0.3 min]     filter step 30/50
+[01:15:35 |   0.4 min]     filter step 40/50
+[01:15:41 |   0.5 min]     filter step 50/50
+[01:15:42 |   0.5 min]   P_7^q, q = 1: e_6 = 0   (Ritz values [0.1506 0.1477 0.1446], residual 0.0e+00, leak 7.6e-17, 29 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[01:15:42 |   0.5 min] === I_{8,12}, level 6 (dimension 262144), block 8 ===
+[01:15:51 |   0.6 min]     filter step 10/50
+[01:15:59 |   0.8 min]     filter step 20/50
+[01:16:07 |   0.9 min]     filter step 30/50
+[01:16:15 |   1.0 min]     filter step 40/50
+[01:16:24 |   1.2 min]     filter step 50/50
+[01:16:25 |   1.2 min]   I_{8,12}: e_6 = 0   (Ritz values [0.1281 0.1269 0.1263], residual 0.0e+00, leak 6.7e-17, 44 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[01:16:25 |   1.2 min] === K_{8,30}, level 6 (dimension 262144), block 8 ===
+[01:16:35 |   1.4 min]     filter step 10/50
+[01:16:43 |   1.5 min]     filter step 20/50
+[01:16:51 |   1.6 min]     filter step 30/50
+[01:16:59 |   1.8 min]     filter step 40/50
+[01:17:07 |   1.9 min]     filter step 50/50
+[01:17:09 |   1.9 min]   K_{8,30}: e_6 = 0   (Ritz values [0.1279 0.1268 0.1261], residual 0.0e+00, leak 6.8e-17, 44 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[01:17:09 |   1.9 min] === L_{8,30}, level 6 (dimension 262144), block 8 ===
+[01:17:18 |   2.1 min]     filter step 10/50
+[01:17:26 |   2.2 min]     filter step 20/50
+[01:17:34 |   2.4 min]     filter step 30/50
+[01:17:42 |   2.5 min]     filter step 40/50
+[01:17:51 |   2.6 min]     filter step 50/50
+[01:17:52 |   2.7 min]   L_{8,30}: e_6 = 0   (Ritz values [0.13   0.1284 0.1256], residual 0.0e+00, leak 6.8e-17, 43 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[01:17:52 |   2.7 min] === BN_9, level 6 (dimension 531441), block 8 ===
+[01:18:14 |   3.0 min]     filter step 10/50
+[01:18:34 |   3.4 min]     filter step 20/50
+[01:18:55 |   3.7 min]     filter step 30/50
+[01:19:15 |   4.0 min]     filter step 40/50
+[01:19:35 |   4.4 min]     filter step 50/50
+[01:19:39 |   4.4 min]   BN_9: e_6 = 0   (Ritz values [0.113  0.1127 0.1122], residual 0.0e+00, leak 6.3e-17, 106 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[01:19:39 |   4.4 min] === N_11, level 6 (dimension 1771561), block 8 ===
+[01:21:22 |   6.1 min]     filter step 10/50
+[01:22:58 |   7.7 min]     filter step 20/50
+[01:24:34 |   9.4 min]     filter step 30/50
+[01:26:10 |  10.9 min]     filter step 40/50
+[01:27:46 |  12.5 min]     filter step 50/50
+[01:28:02 |  12.8 min]   N_11: e_6 = 0   (Ritz values [0.0918 0.0916 0.0915], residual 0.0e+00, leak 5.8e-17, 503 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[01:28:02 |  12.8 min] === T_6, level 8 (dimension 1679616), block 8 ===
+[01:29:09 |  13.9 min]     filter step 10/50
+[01:30:07 |  14.9 min]     filter step 20/50
+[01:31:05 |  15.9 min]     filter step 30/50
+[01:32:04 |  16.8 min]     filter step 40/50
+[01:33:02 |  17.8 min]     filter step 50/50
+[01:33:16 |  18.1 min]   T_6: e_8 = 0   (Ritz values [0.1727 0.1723 0.171 ], residual 0.0e+00, leak 8.6e-17, 315 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[01:33:16 |  18.1 min] === BF_6, level 8 (dimension 1679616), block 8 ===
+[01:34:24 |  19.2 min]     filter step 10/50
+[01:35:22 |  20.1 min]     filter step 20/50
+[01:36:20 |  21.1 min]     filter step 30/50
+[01:37:19 |  22.1 min]     filter step 40/50
+[01:38:17 |  23.1 min]     filter step 50/50
+[01:38:32 |  23.3 min]   BF_6: e_8 = 0   (Ritz values [0.1681 0.1674 0.1662], residual 0.0e+00, leak 8.3e-17, 315 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[01:38:32 |  23.3 min] === K_6, random, level 8 (dimension 1679616), block 8 ===
+[01:39:39 |  24.4 min]     filter step 10/50
+[01:40:38 |  25.4 min]     filter step 20/50
+[01:41:36 |  26.4 min]     filter step 30/50
+[01:42:34 |  27.4 min]     filter step 40/50
+[01:43:33 |  28.3 min]     filter step 50/50
+[01:43:47 |  28.6 min]   K_6, random: e_8 = 0   (Ritz values [0.1718 0.1696 0.1678], residual 0.0e+00, leak 8.2e-17, 315 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[01:43:47 |  28.6 min] === H_6^q, q = 1, level 8 (dimension 1679616), block 8 ===
+[01:44:54 |  29.7 min]     filter step 10/50
+[01:45:52 |  30.6 min]     filter step 20/50
+[01:46:50 |  31.6 min]     filter step 30/50
+[01:47:49 |  32.6 min]     filter step 40/50
+[01:48:47 |  33.6 min]     filter step 50/50
+[01:49:01 |  33.8 min]   H_6^q, q = 1: e_8 = 0   (Ritz values [0.1705 0.169  0.1686], residual 0.0e+00, leak 8.2e-17, 314 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[01:49:01 |  33.8 min] === BN_6^q, q = i (D_6), level 8 (dimension 1679616), block 8 ===
+[01:50:08 |  34.9 min]     filter step 10/50
+[01:51:06 |  35.9 min]     filter step 20/50
+[01:52:05 |  36.9 min]     filter step 30/50
+[01:53:03 |  37.8 min]     filter step 40/50
+[01:54:02 |  38.8 min]     filter step 50/50
+[01:54:16 |  39.0 min]   BN_6^q, q = i (D_6): e_8 = 0   (Ritz values [0.1705 0.169  0.1686], residual 0.0e+00, leak 8.2e-17, 315 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[01:54:16 |  39.0 min] === H_6^q, q random, level 8 (dimension 1679616), block 8 ===
+[01:55:23 |  40.2 min]     filter step 10/50
+[01:56:22 |  41.1 min]     filter step 20/50
+[01:57:20 |  42.1 min]     filter step 30/50
+[01:58:19 |  43.1 min]     filter step 40/50
+[01:59:17 |  44.1 min]     filter step 50/50
+[01:59:31 |  44.3 min]   H_6^q, q random: e_8 = 0   (Ritz values [0.1704 0.1694 0.168 ], residual 0.0e+00, leak 8.3e-17, 316 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[01:59:31 |  44.3 min] === BN_6^q, q random on arc, level 8 (dimension 1679616), block 8 ===
+[02:00:39 |  45.4 min]     filter step 10/50
+[02:01:37 |  46.4 min]     filter step 20/50
+[02:02:36 |  47.4 min]     filter step 30/50
+[02:03:34 |  48.3 min]     filter step 40/50
+[02:04:32 |  49.3 min]     filter step 50/50
+[02:04:46 |  49.6 min]   BN_6^q, q random on arc: e_8 = 0   (Ritz values [0.169  0.1684 0.1669], residual 0.0e+00, leak 8.3e-17, 315 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[02:04:46 |  49.6 min] === P_7^q, q random, level 7 (dimension 823543), block 8 ===
+[02:05:17 |  50.1 min]     filter step 10/50
+[02:05:45 |  50.5 min]     filter step 20/50
+[02:06:12 |  51.0 min]     filter step 30/50
+[02:06:39 |  51.4 min]     filter step 40/50
+[02:07:06 |  51.9 min]     filter step 50/50
+[02:07:13 |  52.0 min]   P_7^q, q random: e_7 = 0   (Ritz values [0.1458 0.1448 0.1442], residual 0.0e+00, leak 7.5e-17, 146 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:07:13 |  52.0 min] === R_7^q, q random, level 7 (dimension 823543), block 8 ===
+[02:07:44 |  52.5 min]     filter step 10/50
+[02:08:11 |  53.0 min]     filter step 20/50
+[02:08:38 |  53.4 min]     filter step 30/50
+[02:09:05 |  53.9 min]     filter step 40/50
+[02:09:33 |  54.3 min]     filter step 50/50
+[02:09:39 |  54.4 min]   R_7^q, q random: e_7 = 0   (Ritz values [0.1461 0.1454 0.1445], residual 0.0e+00, leak 7.3e-17, 146 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:09:39 |  54.4 min] === P_7^q, q = 1, level 7 (dimension 823543), block 8 ===
+[02:10:10 |  54.9 min]     filter step 10/50
+[02:10:37 |  55.4 min]     filter step 20/50
+[02:11:05 |  55.9 min]     filter step 30/50
+[02:11:32 |  56.3 min]     filter step 40/50
+[02:11:59 |  56.8 min]     filter step 50/50
+[02:12:05 |  56.9 min]   P_7^q, q = 1: e_7 = 0   (Ritz values [0.1458 0.1453 0.1443], residual 0.0e+00, leak 7.4e-17, 146 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:12:05 |  56.9 min] === F_{8,4}, random, level 7 (dimension 2097152), block 8 ===
+[02:13:32 |  58.3 min]     filter step 10/50
+[02:14:48 |  59.6 min]     filter step 20/50
+[02:16:05 |  60.9 min]     filter step 30/50
+[02:17:22 |  62.1 min]     filter step 40/50
+[02:18:39 |  63.4 min]     filter step 50/50
+[02:18:55 |  63.7 min]   F_{8,4}, random: e_7 = 0   (Ritz values [0.1238 0.1231 0.1228], residual 0.0e+00, leak 7.1e-17, 410 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:18:55 |  63.7 min] === F_{8,2}, random, level 7 (dimension 2097152), block 8 ===
+[02:20:22 |  65.1 min]     filter step 10/50
+[02:21:39 |  66.4 min]     filter step 20/50
+[02:22:55 |  67.7 min]     filter step 30/50
+[02:24:12 |  69.0 min]     filter step 40/50
+[02:25:29 |  70.3 min]     filter step 50/50
+[02:25:45 |  70.5 min]   F_{8,2}, random: e_7 = 0   (Ritz values [0.1262 0.126  0.1253], residual 0.0e+00, leak 6.9e-17, 410 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:25:45 |  70.5 min] === K_{8,2}, random, level 7 (dimension 2097152), block 8 ===
+[02:27:12 |  72.0 min]     filter step 10/50
+[02:28:29 |  73.3 min]     filter step 20/50
+[02:29:46 |  74.5 min]     filter step 30/50
+[02:31:03 |  75.8 min]     filter step 40/50
+[02:32:20 |  77.1 min]     filter step 50/50
+[02:32:37 |  77.4 min]   K_{8,2}, random: e_7 = 0   (Ritz values [0.1256 0.1253 0.1251], residual 0.0e+00, leak 7.2e-17, 411 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:32:37 |  77.4 min] === M_{8,1}, random, level 7 (dimension 2097152), block 8 ===
+[02:34:04 |  78.8 min]     filter step 10/50
+[02:35:22 |  80.1 min]     filter step 20/50
+[02:36:39 |  81.4 min]     filter step 30/50
+[02:37:57 |  82.7 min]     filter step 40/50
+[02:39:14 |  84.0 min]     filter step 50/50
+[02:39:31 |  84.3 min]   M_{8,1}, random: e_7 = 0   (Ritz values [0.1263 0.1255 0.125 ], residual 0.0e+00, leak 6.7e-17, 415 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:39:31 |  84.3 min] === I_{8,12}, level 7 (dimension 2097152), block 8 ===
+[02:40:58 |  85.7 min]     filter step 10/50
+[02:42:15 |  87.0 min]     filter step 20/50
+[02:43:32 |  88.3 min]     filter step 30/50
+[02:44:48 |  89.6 min]     filter step 40/50
+[02:46:05 |  90.9 min]     filter step 50/50
+[02:46:22 |  91.1 min]   I_{8,12}: e_7 = 0   (Ritz values [0.1258 0.1254 0.1252], residual 0.0e+00, leak 7.3e-17, 411 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:46:22 |  91.1 min] === K_{8,30}, level 7 (dimension 2097152), block 8 ===
+[02:47:49 |  92.6 min]     filter step 10/50
+[02:49:05 |  93.9 min]     filter step 20/50
+[02:50:22 |  95.1 min]     filter step 30/50
+[02:51:39 |  96.4 min]     filter step 40/50
+[02:52:56 |  97.7 min]     filter step 50/50
+[02:53:12 |  98.0 min]   K_{8,30}: e_7 = 0   (Ritz values [0.1262 0.1256 0.1253], residual 0.0e+00, leak 7.2e-17, 411 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[02:53:12 |  98.0 min] === L_{8,30}, level 7 (dimension 2097152), block 8 ===
+[02:54:40 |  99.4 min]     filter step 10/50
+[02:55:57 | 100.7 min]     filter step 20/50
+[02:57:14 | 102.0 min]     filter step 30/50
+[02:58:31 | 103.3 min]     filter step 40/50
+[02:59:49 | 104.6 min]     filter step 50/50
+[03:00:05 | 104.9 min]   L_{8,30}: e_7 = 0   (Ritz values [0.1272 0.1261 0.1259], residual 0.0e+00, leak 6.8e-17, 413 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[03:00:05 | 104.9 min] === P_12, level 6 (dimension 2985984), block 8 ===
+[03:02:14 | 107.0 min]     filter step 10/50
+[03:04:13 | 109.0 min]     filter step 20/50
+[03:06:13 | 111.0 min]     filter step 30/50
+[03:08:13 | 113.0 min]     filter step 40/50
+[03:10:14 | 115.0 min]     filter step 50/50
+[03:10:32 | 115.3 min]   P_12: e_6 = 0   (Ritz values [0.0821 0.0821 0.082 ], residual 0.0e+00, leak 5.2e-17, 627 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[03:10:32 | 115.3 min] all jobs done.

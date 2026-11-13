@@ -1,0 +1,86 @@
+[restart] F_{8,5b} c_6 = 903 (sectors 165,139,159,142,159,139) and F_{8,5a} sector 0 = 520 from the first run, 7 Nov 15:37-17:39
+[18:38:38 |   0.0 min] start; numpy 2.5.4, python 3.14.10; 3 jobs
+[18:38:38 |   0.0 min] F_{8,5b} c_6 already done (c_6 = 903), skipping
+[18:38:38 |   0.0 min] === F_{8,5a} c_6 (conjectured value 2974) ===
+[18:38:38 |   0.0 min]   sector 0 already done: 520
+[18:38:38 |   0.0 min]   sector 1/6: dimension 43596, block 600
+[18:45:42 |   7.1 min]     filter step 10/50
+[18:52:44 |  14.1 min]     filter step 20/50
+[18:59:47 |  21.2 min]     filter step 30/50
+[19:06:51 |  28.2 min]     filter step 40/50
+[19:13:54 |  35.3 min]     filter step 50/50
+[19:14:37 |  36.0 min]   sector 1: 474 fixed vectors   (next Ritz value 0.9670, residual 1.8e-08, 2158 s)
+[19:14:37 |  36.0 min]   sector 2/6: dimension 43764, block 640
+[19:22:07 |  43.5 min]     filter step 10/50
+[19:29:32 |  50.9 min]     filter step 20/50
+[19:36:57 |  58.3 min]     filter step 30/50
+[19:44:22 |  65.7 min]     filter step 40/50
+[19:51:48 |  73.2 min]     filter step 50/50
+[19:52:35 |  73.9 min]   sector 2: 516 fixed vectors   (next Ritz value 0.9813, residual 1.6e-08, 2278 s)
+[19:52:35 |  73.9 min]   sector 3/6: dimension 43624, block 660
+[20:00:20 |  81.7 min]     filter step 10/50
+[20:08:06 |  89.5 min]     filter step 20/50
+[20:15:51 |  97.2 min]     filter step 30/50
+[20:23:29 | 104.9 min]     filter step 40/50
+[20:31:16 | 112.6 min]     filter step 50/50
+[20:32:02 | 113.4 min]   sector 3: 474 fixed vectors   (next Ritz value 0.9670, residual 9.6e-09, 2367 s)
+[20:32:02 | 113.4 min]   sector 4/6: dimension 43764, block 640
+[20:39:36 | 121.0 min]     filter step 10/50
+[20:47:06 | 128.5 min]     filter step 20/50
+[20:54:27 | 135.8 min]     filter step 30/50
+[21:01:48 | 143.2 min]     filter step 40/50
+[21:09:08 | 150.5 min]     filter step 50/50
+[21:09:53 | 151.3 min]   sector 4: 516 fixed vectors   (next Ritz value 0.9813, residual 1.7e-08, 2271 s)
+[21:09:53 | 151.3 min]   sector 5/6: dimension 43596, block 600
+[21:16:53 | 158.2 min]     filter step 10/50
+[21:23:52 | 165.2 min]     filter step 20/50
+[21:30:50 | 172.2 min]     filter step 30/50
+[21:37:49 | 179.2 min]     filter step 40/50
+[21:44:48 | 186.2 min]     filter step 50/50
+[21:45:30 | 186.9 min]   sector 5: 474 fixed vectors   (next Ritz value 0.9670, residual 1.0e-08, 2137 s)
+[21:45:30 | 186.9 min] F_{8,5a} c_6: c_6 = 2974   (by sector [520, 474, 516, 474, 516, 474]; conjectured 2974)   <<< MATCH
+[21:45:30 | 186.9 min] === F_{8,5c} c_6 (conjectured value 903) ===
+[21:45:30 | 186.9 min]   sector 0/6: dimension 43800, block 240
+[21:48:16 | 189.6 min]     filter step 10/50
+[21:51:02 | 192.4 min]     filter step 20/50
+[21:53:47 | 195.2 min]     filter step 30/50
+[21:56:33 | 197.9 min]     filter step 40/50
+[21:59:19 | 200.7 min]     filter step 50/50
+[21:59:34 | 200.9 min]   sector 0: 165 fixed vectors   (next Ritz value 0.0812, residual 7.2e-09, 844 s)
+[21:59:34 | 200.9 min]   sector 1/6: dimension 43596, block 200
+[22:01:54 | 203.3 min]     filter step 10/50
+[22:04:14 | 205.6 min]     filter step 20/50
+[22:06:35 | 207.9 min]     filter step 30/50
+[22:08:55 | 210.3 min]     filter step 40/50
+[22:11:16 | 212.6 min]     filter step 50/50
+[22:11:28 | 212.8 min]   sector 1: 139 fixed vectors   (next Ritz value 0.0806, residual 7.3e-09, 714 s)
+[22:11:28 | 212.8 min]   sector 2/6: dimension 43764, block 210
+[22:14:03 | 215.4 min]     filter step 10/50
+[22:16:37 | 218.0 min]     filter step 20/50
+[22:19:09 | 220.5 min]     filter step 30/50
+[22:21:40 | 223.0 min]     filter step 40/50
+[22:24:14 | 225.6 min]     filter step 50/50
+[22:24:27 | 225.8 min]   sector 2: 159 fixed vectors   (next Ritz value 0.0796, residual 9.3e-09, 779 s)
+[22:24:27 | 225.8 min]   sector 3/6: dimension 43624, block 220
+[22:27:04 | 228.4 min]     filter step 10/50
+[22:29:42 | 231.1 min]     filter step 20/50
+[22:32:20 | 233.7 min]     filter step 30/50
+[22:34:58 | 236.3 min]     filter step 40/50
+[22:37:37 | 239.0 min]     filter step 50/50
+[22:37:50 | 239.2 min]   sector 3: 142 fixed vectors   (next Ritz value 0.0808, residual 8.8e-09, 803 s)
+[22:37:50 | 239.2 min]   sector 4/6: dimension 43764, block 210
+[22:40:22 | 241.7 min]     filter step 10/50
+[22:42:55 | 244.3 min]     filter step 20/50
+[22:45:27 | 246.8 min]     filter step 30/50
+[22:48:01 | 249.4 min]     filter step 40/50
+[22:50:34 | 251.9 min]     filter step 50/50
+[22:50:48 | 252.2 min]   sector 4: 159 fixed vectors   (next Ritz value 0.0803, residual 1.6e-08, 778 s)
+[22:50:48 | 252.2 min]   sector 5/6: dimension 43596, block 200
+[22:53:10 | 254.5 min]     filter step 10/50
+[22:55:30 | 256.9 min]     filter step 20/50
+[22:57:50 | 259.2 min]     filter step 30/50
+[23:00:12 | 261.6 min]     filter step 40/50
+[23:02:33 | 263.9 min]     filter step 50/50
+[23:02:45 | 264.1 min]   sector 5: 139 fixed vectors   (next Ritz value 0.0790, residual 8.2e-09, 717 s)
+[23:02:45 | 264.1 min] F_{8,5c} c_6: c_6 = 903   (by sector [165, 139, 159, 142, 159, 139]; conjectured 903)   <<< MATCH
+[23:02:45 | 264.1 min] all jobs done.

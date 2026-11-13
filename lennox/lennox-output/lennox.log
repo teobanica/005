@@ -1,0 +1,41 @@
+[03:35:42 |   0.0 min] start; numpy 2.0.2, python 3.9.6; 13 jobs. Jones-Wenzl counts: e_8 at orders 7 and 8, e_6 at 12, e_7 at 10 and 11.
+[03:35:42 |   0.0 min] === P_7^q, q random, level 8 (dimension 5764801), block 2 ===
+[03:36:55 |   1.2 min]     filter step 10/50
+[03:37:57 |   2.2 min]     filter step 20/50
+[03:38:58 |   3.3 min]     filter step 30/50
+[03:39:59 |   4.3 min]     filter step 40/50
+[03:41:00 |   5.3 min]     filter step 50/50
+[03:41:17 |   5.6 min]   P_7^q, q random: e_8 = 0   (Ritz values [0.1438 0.1432], residual 0.0e+00, leak 5.7e-17, 335 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[03:41:17 |   5.6 min] === P_7^q, q = 1, level 8 (dimension 5764801), block 2 ===
+[03:42:30 |   6.8 min]     filter step 10/50
+[03:43:31 |   7.8 min]     filter step 20/50
+[03:44:33 |   8.8 min]     filter step 30/50
+[03:45:34 |   9.9 min]     filter step 40/50
+[03:46:36 |  10.9 min]     filter step 50/50
+[03:46:53 |  11.2 min]   P_7^q, q = 1: e_8 = 0   (Ritz values [0.1434 0.143 ], residual 0.0e+00, leak 5.3e-17, 335 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[03:46:53 |  11.2 min] === R_7^q, q random, level 8 (dimension 5764801), block 2 ===
+[03:48:05 |  12.4 min]     filter step 10/50
+[03:49:08 |  13.4 min]     filter step 20/50
+[03:50:09 |  14.5 min]     filter step 30/50
+[03:51:11 |  15.5 min]     filter step 40/50
+[03:52:12 |  16.5 min]     filter step 50/50
+[03:52:29 |  16.8 min]   R_7^q, q random: e_8 = 0   (Ritz values [0.1438 0.1428], residual 0.0e+00, leak 5.6e-17, 337 s)   c_8 = Cat_8 = 1430, if c_7 = Cat_7
+[03:52:29 |  16.8 min] === P_12, level 6 (dimension 2985984), block 2 ===
+[03:53:04 |  17.4 min]     filter step 10/50
+[03:53:36 |  17.9 min]     filter step 20/50
+[03:54:07 |  18.4 min]     filter step 30/50
+[03:54:38 |  18.9 min]     filter step 40/50
+[03:55:09 |  19.5 min]     filter step 50/50
+[03:55:15 |  19.6 min]   P_12: e_6 = 0   (Ritz values [0.082  0.0817], residual 0.0e+00, leak 3.7e-17, 166 s)   c_6 = Cat_6 = 132, if c_5 = Cat_5
+[03:55:15 |  19.6 min] === BN_10, level 7 (dimension 10000000), block 2 ===
+[04:00:45 |  25.0 min]     filter step 10/50
+[04:06:00 |  30.3 min]     filter step 20/50
+[04:11:21 |  35.7 min]     filter step 30/50
+[04:16:30 |  40.8 min]     filter step 40/50
+[04:22:04 |  46.4 min]     filter step 50/50
+[04:22:43 |  47.0 min]   BN_10: e_7 = 0   (Ritz values [0.1002 0.1   ], residual 0.0e+00, leak 4.5e-17, 1648 s)   c_7 = Cat_7 = 429, if c_6 = Cat_6
+[04:22:43 |  47.0 min] === F_{8,2}, random, level 8 (dimension 16777216), block 2 ===
+[06:00:30 | 144.8 min]     filter step 10/50
+[07:36:37 | 240.9 min]     filter step 20/50
+[09:19:19 | 343.6 min]     filter step 30/50
+[10:35:42 | 420.0 min] 7 hours reached, stopping. Results so far are in lennox/lennox-output/lennox.json

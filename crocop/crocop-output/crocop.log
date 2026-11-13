@@ -1,0 +1,569 @@
+[19:24:48 |   0.0 min] start; numpy 2.0.2, python 3.9.6; 22 matrices. Gap profiles, orders 6 to 12.
+[19:24:48 |   0.0 min] === T_6, level 2 (dimension 36) ===
+[19:24:48 |   0.0 min]   ||Phi_2|| = 0.25000000   (next [0.25 0.25 0.25], residual 0.0e+00, 0 s)
+[19:24:48 |   0.0 min] === T_6, level 3 (dimension 216) ===
+[19:24:48 |   0.0 min]   ||Phi_3|| = 0.42838137   (next [0.428381 0.428381 0.428381], residual 0.0e+00, 0 s)
+[19:24:48 |   0.0 min] === T_6, level 4 (dimension 1296) ===
+[19:24:51 |   0.0 min]   ||Phi_4|| = 0.61892092   (next [0.618921 0.618921 0.618921], residual 0.0e+00, 3 s)
+[19:24:51 |   0.0 min] === T_6, level 5 (dimension 7776) ===
+[19:24:51 |   0.0 min]       restart 5: top 0.61891981, residual 9.9e-04
+[19:24:52 |   0.1 min]       restart 10: top 0.61892092, residual 3.3e-06
+[19:24:52 |   0.1 min]   ||Phi_5|| = 0.61892092   (next [0.618921 0.618921 0.618921], residual 4.3e-08, 1 s)
+[19:24:52 |   0.1 min] === T_6, level 6 (dimension 46656) ===
+[19:24:55 |   0.1 min]       restart 5: top 0.65104477, residual 2.2e-03
+[19:24:57 |   0.1 min]       restart 10: top 0.65104919, residual 2.7e-05
+[19:25:00 |   0.2 min]       restart 15: top 0.65104919, residual 4.3e-07
+[19:25:01 |   0.2 min]   ||Phi_6|| = 0.65104919   (next [0.651049 0.651049 0.651049], residual 8.0e-08, 9 s)
+[19:25:01 |   0.2 min] === T_6, level 7 (dimension 279936) ===
+[19:25:22 |   0.6 min]       restart 5: top 0.65059605, residual 3.4e-03
+[19:25:41 |   0.9 min]       restart 10: top 0.65082475, residual 2.0e-03
+[19:26:00 |   1.2 min]       restart 15: top 0.65092900, residual 1.9e-03
+[19:26:20 |   1.5 min]       restart 20: top 0.65098703, residual 1.5e-03
+[19:26:39 |   1.8 min]       restart 25: top 0.65101764, residual 1.2e-03
+[19:26:58 |   2.2 min]       restart 30: top 0.65103332, residual 8.2e-04
+[19:27:01 |   2.2 min]   ||Phi_7|| = 0.65103332   (next [0.651021 0.651002 0.650984], residual 8.2e-04, 119 s)
+[19:27:01 |   2.2 min] T_6: profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.25, 0.428381, 0.618921, 0.618921, 0.651049, 0.651033]
+[19:27:01 |   2.2 min] === H_6^q, q random, level 2 (dimension 36) ===
+[19:27:01 |   2.2 min]   ||Phi_2|| = 0.40187218   (next [0.401872 0.401872 0.338869], residual 0.0e+00, 0 s)
+[19:27:01 |   2.2 min] === H_6^q, q random, level 3 (dimension 216) ===
+[19:27:01 |   2.2 min]   ||Phi_3|| = 0.40187218   (next [0.401872 0.401872 0.343748], residual 0.0e+00, 0 s)
+[19:27:01 |   2.2 min] === H_6^q, q random, level 4 (dimension 1296) ===
+[19:27:03 |   2.2 min]   ||Phi_4|| = 0.67331181   (next [0.673312 0.673312 0.66149 ], residual 0.0e+00, 2 s)
+[19:27:03 |   2.2 min] === H_6^q, q random, level 5 (dimension 7776) ===
+[19:27:03 |   2.3 min]       restart 5: top 0.67331181, residual 7.5e-05
+[19:27:04 |   2.3 min]   ||Phi_5|| = 0.67331181   (next [0.673312 0.673312 0.66149 ], residual 6.5e-08, 1 s)
+[19:27:04 |   2.3 min] === H_6^q, q random, level 6 (dimension 46656) ===
+[19:27:07 |   2.3 min]       restart 5: top 0.67319146, residual 6.7e-03
+[19:27:09 |   2.3 min]       restart 10: top 0.67331152, residual 1.1e-03
+[19:27:12 |   2.4 min]       restart 15: top 0.67331181, residual 1.7e-04
+[19:27:14 |   2.4 min]       restart 20: top 0.67331181, residual 6.7e-05
+[19:27:17 |   2.5 min]       restart 25: top 0.67331181, residual 2.3e-05
+[19:27:19 |   2.5 min]       restart 30: top 0.67331181, residual 9.5e-06
+[19:27:20 |   2.5 min]   ||Phi_6|| = 0.67331181   (next [0.673312 0.673312 0.66562 ], residual 9.5e-06, 16 s)
+[19:27:20 |   2.5 min] === H_6^q, q random, level 7 (dimension 279936) ===
+[19:27:40 |   2.9 min]       restart 5: top 0.67301750, residual 9.9e-03
+[19:27:59 |   3.2 min]       restart 10: top 0.67331111, residual 1.4e-03
+[19:28:19 |   3.5 min]       restart 15: top 0.67331181, residual 3.0e-04
+[19:28:38 |   3.8 min]       restart 20: top 0.67331181, residual 7.9e-05
+[19:28:57 |   4.1 min]       restart 25: top 0.67331181, residual 2.5e-05
+[19:29:15 |   4.5 min]       restart 30: top 0.67331181, residual 9.8e-06
+[19:29:18 |   4.5 min]   ||Phi_7|| = 0.67331181   (next [0.673312 0.673312 0.66562 ], residual 9.8e-06, 118 s)
+[19:29:18 |   4.5 min] H_6^q, q random: profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.401872, 0.401872, 0.673312, 0.673312, 0.673312, 0.673312]
+[19:29:18 |   4.5 min] === BN_6^q, q random on arc, level 2 (dimension 36) ===
+[19:29:18 |   4.5 min]   ||Phi_2|| = 0.50083614   (next [0.500836 0.365981 0.365981], residual 0.0e+00, 0 s)
+[19:29:18 |   4.5 min] === BN_6^q, q random on arc, level 3 (dimension 216) ===
+[19:29:18 |   4.5 min]   ||Phi_3|| = 0.50083614   (next [0.500836 0.398584 0.365981], residual 0.0e+00, 0 s)
+[19:29:18 |   4.5 min] === BN_6^q, q random on arc, level 4 (dimension 1296) ===
+[19:29:20 |   4.5 min]   ||Phi_4|| = 0.69221078   (next [0.692211 0.662166 0.613785], residual 0.0e+00, 2 s)
+[19:29:20 |   4.5 min] === BN_6^q, q random on arc, level 5 (dimension 7776) ===
+[19:29:21 |   4.5 min]       restart 5: top 0.69221078, residual 7.6e-05
+[19:29:21 |   4.5 min]   ||Phi_5|| = 0.69221078   (next [0.692211 0.676974 0.676974], residual 5.5e-08, 1 s)
+[19:29:21 |   4.5 min] === BN_6^q, q random on arc, level 6 (dimension 46656) ===
+[19:29:24 |   4.6 min]       restart 5: top 0.69220987, residual 2.3e-03
+[19:29:27 |   4.6 min]       restart 10: top 0.69221078, residual 1.1e-05
+[19:29:29 |   4.7 min]       restart 15: top 0.69221078, residual 1.2e-07
+[19:29:30 |   4.7 min]   ||Phi_6|| = 0.69221078   (next [0.692211 0.687139 0.676974], residual 4.5e-08, 9 s)
+[19:29:30 |   4.7 min] === BN_6^q, q random on arc, level 7 (dimension 279936) ===
+[19:29:50 |   5.0 min]       restart 5: top 0.69213115, residual 6.1e-03
+[19:30:09 |   5.4 min]       restart 10: top 0.69221073, residual 8.7e-04
+[19:30:29 |   5.7 min]       restart 15: top 0.69221078, residual 2.9e-04
+[19:30:47 |   6.0 min]       restart 20: top 0.69221078, residual 1.0e-04
+[19:31:05 |   6.3 min]       restart 25: top 0.69221078, residual 3.3e-05
+[19:31:23 |   6.6 min]       restart 30: top 0.69221078, residual 1.1e-05
+[19:31:26 |   6.6 min]   ||Phi_7|| = 0.69221078   (next [0.692211 0.687139 0.676974], residual 1.1e-05, 116 s)
+[19:31:26 |   6.6 min] BN_6^q, q random on arc: profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.500836, 0.500836, 0.692211, 0.692211, 0.692211, 0.692211]
+[19:31:26 |   6.6 min] === BF_6, level 2 (dimension 36) ===
+[19:31:26 |   6.6 min]   ||Phi_2|| = 0.63349785   (next [0.633498 0.514138 0.514138], residual 0.0e+00, 0 s)
+[19:31:26 |   6.6 min] === BF_6, level 3 (dimension 216) ===
+[19:31:26 |   6.6 min]   ||Phi_3|| = 0.63349785   (next [0.633498 0.514138 0.514138], residual 0.0e+00, 0 s)
+[19:31:26 |   6.6 min] === BF_6, level 4 (dimension 1296) ===
+[19:31:28 |   6.7 min]   ||Phi_4|| = 0.66666049   (next [0.66666  0.666194 0.666194], residual 0.0e+00, 2 s)
+[19:31:28 |   6.7 min] === BF_6, level 5 (dimension 7776) ===
+[19:31:28 |   6.7 min]       restart 5: top 0.66666022, residual 6.3e-04
+[19:31:29 |   6.7 min]       restart 10: top 0.66666049, residual 8.2e-07
+[19:31:29 |   6.7 min]   ||Phi_5|| = 0.66666049   (next [0.66666  0.666194 0.666194], residual 7.0e-08, 1 s)
+[19:31:29 |   6.7 min] === BF_6, level 6 (dimension 46656) ===
+[19:31:32 |   6.7 min]       restart 5: top 0.66621345, residual 7.1e-03
+[19:31:34 |   6.8 min]       restart 10: top 0.66657158, residual 3.2e-03
+[19:31:37 |   6.8 min]       restart 15: top 0.66663541, residual 2.0e-03
+[19:31:39 |   6.9 min]       restart 20: top 0.66665348, residual 1.3e-03
+[19:31:42 |   6.9 min]       restart 25: top 0.66665860, residual 8.1e-04
+[19:31:45 |   6.9 min]       restart 30: top 0.66665999, residual 5.3e-04
+[19:31:45 |   6.9 min]   ||Phi_6|| = 0.66665999   (next [0.666658 0.666193 0.666178], residual 5.3e-04, 16 s)
+[19:31:45 |   6.9 min] === BF_6, level 7 (dimension 279936) ===
+[19:32:05 |   7.3 min]       restart 5: top 0.66527485, residual 9.1e-03
+[19:32:25 |   7.6 min]       restart 10: top 0.66634330, residual 5.0e-03
+[19:32:44 |   7.9 min]       restart 15: top 0.66657868, residual 2.6e-03
+[19:33:03 |   8.3 min]       restart 20: top 0.66664496, residual 2.1e-03
+[19:33:23 |   8.6 min]       restart 25: top 0.66665764, residual 1.2e-03
+[19:33:42 |   8.9 min]       restart 30: top 0.66665994, residual 7.2e-04
+[19:33:45 |   8.9 min]   ||Phi_7|| = 0.66665994   (next [0.666643 0.666191 0.666167], residual 7.2e-04, 120 s)
+[19:33:45 |   8.9 min] BF_6: profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.633498, 0.633498, 0.66666, 0.66666, 0.66666, 0.66666]
+[19:33:45 |   8.9 min] === K_6, random, level 2 (dimension 36) ===
+[19:33:45 |   8.9 min]   ||Phi_2|| = 0.74159173   (next [0.615469 0.501798 0.457696], residual 0.0e+00, 0 s)
+[19:33:45 |   8.9 min] === K_6, random, level 3 (dimension 216) ===
+[19:33:45 |   8.9 min]   ||Phi_3|| = 0.74159173   (next [0.615469 0.583465 0.501798], residual 0.0e+00, 0 s)
+[19:33:45 |   8.9 min] === K_6, random, level 4 (dimension 1296) ===
+[19:33:47 |   9.0 min]   ||Phi_4|| = 0.79456168   (next [0.745387 0.741592 0.681259], residual 0.0e+00, 2 s)
+[19:33:47 |   9.0 min] === K_6, random, level 5 (dimension 7776) ===
+[19:33:47 |   9.0 min]       restart 5: top 0.79456168, residual 1.2e-03
+[19:33:48 |   9.0 min]       restart 10: top 0.79456168, residual 3.4e-05
+[19:33:48 |   9.0 min]       restart 15: top 0.79456168, residual 1.2e-06
+[19:33:48 |   9.0 min]   ||Phi_5|| = 0.79456168   (next [0.745387 0.741592 0.709308], residual 8.1e-08, 1 s)
+[19:33:48 |   9.0 min] === K_6, random, level 6 (dimension 46656) ===
+[19:33:51 |   9.0 min]       restart 5: top 0.79456167, residual 3.1e-03
+[19:33:54 |   9.1 min]       restart 10: top 0.79456168, residual 4.8e-05
+[19:33:56 |   9.1 min]       restart 15: top 0.79456168, residual 1.0e-06
+[19:33:58 |   9.2 min]   ||Phi_6|| = 0.79456168   (next [0.780169 0.758876 0.745387], residual 8.4e-08, 10 s)
+[19:33:58 |   9.2 min] === K_6, random, level 7 (dimension 279936) ===
+[19:34:18 |   9.5 min]       restart 5: top 0.79456114, residual 3.4e-03
+[19:34:38 |   9.8 min]       restart 10: top 0.79456168, residual 3.6e-04
+[19:34:56 |  10.1 min]       restart 15: top 0.79456168, residual 4.6e-05
+[19:35:14 |  10.4 min]       restart 20: top 0.79456168, residual 4.8e-06
+[19:35:32 |  10.7 min]       restart 25: top 0.79456168, residual 6.6e-07
+[19:35:49 |  11.0 min]       restart 30: top 0.79456168, residual 6.9e-08
+[19:35:52 |  11.1 min]   ||Phi_7|| = 0.79456168   (next [0.780169 0.758876 0.746435], residual 6.9e-08, 114 s)
+[19:35:52 |  11.1 min] K_6, random: profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.741592, 0.741592, 0.794562, 0.794562, 0.794562, 0.794562]
+[19:35:52 |  11.1 min] === H_6^q, q = 1, level 2 (dimension 36) ===
+[19:35:52 |  11.1 min]   ||Phi_2|| = 0.37037037   (next [0.37037 0.37037 0.37037], residual 0.0e+00, 0 s)
+[19:35:52 |  11.1 min] === H_6^q, q = 1, level 3 (dimension 216) ===
+[19:35:52 |  11.1 min]   ||Phi_3|| = 0.37037037   (next [0.37037 0.37037 0.37037], residual 0.0e+00, 0 s)
+[19:35:52 |  11.1 min] === H_6^q, q = 1, level 4 (dimension 1296) ===
+[19:35:54 |  11.1 min]   ||Phi_4|| = 0.66666667   (next [0.666667 0.666667 0.666667], residual 0.0e+00, 2 s)
+[19:35:54 |  11.1 min] === H_6^q, q = 1, level 5 (dimension 7776) ===
+[19:35:55 |  11.1 min]       restart 5: top 0.66666666, residual 1.0e-04
+[19:35:55 |  11.1 min]       restart 10: top 0.66666667, residual 2.2e-08
+[19:35:55 |  11.1 min]   ||Phi_5|| = 0.66666667   (next [0.666667 0.666667 0.666667], residual 2.2e-08, 1 s)
+[19:35:55 |  11.1 min] === H_6^q, q = 1, level 6 (dimension 46656) ===
+[19:35:58 |  11.2 min]       restart 5: top 0.66647416, residual 5.9e-03
+[19:36:01 |  11.2 min]       restart 10: top 0.66666068, residual 4.1e-03
+[19:36:03 |  11.2 min]       restart 15: top 0.66666652, residual 2.3e-03
+[19:36:06 |  11.3 min]       restart 20: top 0.66666666, residual 1.0e-03
+[19:36:08 |  11.3 min]       restart 25: top 0.66666667, residual 5.2e-04
+[19:36:11 |  11.4 min]       restart 30: top 0.66666667, residual 2.3e-04
+[19:36:11 |  11.4 min]   ||Phi_6|| = 0.66666667   (next [0.666667 0.666666 0.666664], residual 2.3e-04, 16 s)
+[19:36:11 |  11.4 min] === H_6^q, q = 1, level 7 (dimension 279936) ===
+[19:36:32 |  11.7 min]       restart 5: top 0.66628635, residual 7.3e-03
+[19:36:51 |  12.0 min]       restart 10: top 0.66665420, residual 2.8e-03
+[19:37:10 |  12.4 min]       restart 15: top 0.66666632, residual 1.3e-03
+[19:37:30 |  12.7 min]       restart 20: top 0.66666666, residual 5.6e-04
+[19:37:49 |  13.0 min]       restart 25: top 0.66666667, residual 2.7e-04
+[19:38:09 |  13.3 min]       restart 30: top 0.66666667, residual 1.2e-04
+[19:38:11 |  13.4 min]   ||Phi_7|| = 0.66666667   (next [0.666667 0.666666 0.666666], residual 1.2e-04, 120 s)
+[19:38:11 |  13.4 min] H_6^q, q = 1: profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.37037, 0.37037, 0.666667, 0.666667, 0.666667, 0.666667]
+[19:38:11 |  13.4 min] === BN_6^q, q = i (D_6), level 2 (dimension 36) ===
+[19:38:11 |  13.4 min]   ||Phi_2|| = 0.37037037   (next [0.37037 0.37037 0.37037], residual 0.0e+00, 0 s)
+[19:38:11 |  13.4 min] === BN_6^q, q = i (D_6), level 3 (dimension 216) ===
+[19:38:11 |  13.4 min]   ||Phi_3|| = 0.37037037   (next [0.37037 0.37037 0.37037], residual 0.0e+00, 0 s)
+[19:38:11 |  13.4 min] === BN_6^q, q = i (D_6), level 4 (dimension 1296) ===
+[19:38:14 |  13.4 min]   ||Phi_4|| = 0.66666667   (next [0.666667 0.666667 0.666667], residual 0.0e+00, 2 s)
+[19:38:14 |  13.4 min] === BN_6^q, q = i (D_6), level 5 (dimension 7776) ===
+[19:38:14 |  13.4 min]       restart 5: top 0.66666666, residual 1.0e-04
+[19:38:14 |  13.4 min]       restart 10: top 0.66666667, residual 2.1e-08
+[19:38:14 |  13.4 min]   ||Phi_5|| = 0.66666667   (next [0.666667 0.666667 0.666667], residual 1.7e-08, 1 s)
+[19:38:14 |  13.4 min] === BN_6^q, q = i (D_6), level 6 (dimension 46656) ===
+[19:38:17 |  13.5 min]       restart 5: top 0.66647416, residual 5.9e-03
+[19:38:20 |  13.5 min]       restart 10: top 0.66666068, residual 4.1e-03
+[19:38:22 |  13.6 min]       restart 15: top 0.66666652, residual 2.3e-03
+[19:38:25 |  13.6 min]       restart 20: top 0.66666666, residual 1.0e-03
+[19:38:28 |  13.7 min]       restart 25: top 0.66666667, residual 5.2e-04
+[19:38:30 |  13.7 min]       restart 30: top 0.66666667, residual 2.3e-04
+[19:38:31 |  13.7 min]   ||Phi_6|| = 0.66666667   (next [0.666667 0.666666 0.666664], residual 2.3e-04, 16 s)
+[19:38:31 |  13.7 min] === BN_6^q, q = i (D_6), level 7 (dimension 279936) ===
+[19:38:51 |  14.0 min]       restart 5: top 0.66628635, residual 7.3e-03
+[19:39:10 |  14.4 min]       restart 10: top 0.66665420, residual 2.8e-03
+[19:39:30 |  14.7 min]       restart 15: top 0.66666632, residual 1.3e-03
+[19:39:49 |  15.0 min]       restart 20: top 0.66666666, residual 5.6e-04
+[19:40:08 |  15.3 min]       restart 25: top 0.66666667, residual 2.7e-04
+[19:40:27 |  15.7 min]       restart 30: top 0.66666667, residual 1.2e-04
+[19:40:30 |  15.7 min]   ||Phi_7|| = 0.66666667   (next [0.666667 0.666666 0.666666], residual 1.2e-04, 119 s)
+[19:40:30 |  15.7 min] BN_6^q, q = i (D_6): profile ||Phi_k||, k = [2, 3, 4, 5, 6, 7]: [0.37037, 0.37037, 0.666667, 0.666667, 0.666667, 0.666667]
+[19:40:30 |  15.7 min] === P_7^q, q random, level 2 (dimension 49) ===
+[19:40:30 |  15.7 min]   ||Phi_2|| = 0.35276968   (next [0.35277  0.339874 0.318449], residual 0.0e+00, 0 s)
+[19:40:30 |  15.7 min] === P_7^q, q random, level 3 (dimension 343) ===
+[19:40:30 |  15.7 min]   ||Phi_3|| = 0.53027713   (next [0.473242 0.467457 0.454106], residual 0.0e+00, 0 s)
+[19:40:30 |  15.7 min] === P_7^q, q random, level 4 (dimension 2401) ===
+[19:40:30 |  15.7 min]       restart 5: top 0.56188239, residual 3.6e-03
+[19:40:30 |  15.7 min]       restart 10: top 0.56188312, residual 6.7e-05
+[19:40:30 |  15.7 min]       restart 15: top 0.56188312, residual 1.7e-06
+[19:40:30 |  15.7 min]   ||Phi_4|| = 0.56188312   (next [0.549887 0.536768 0.530277], residual 8.5e-08, 0 s)
+[19:40:30 |  15.7 min] === P_7^q, q random, level 5 (dimension 16807) ===
+[19:40:31 |  15.7 min]       restart 5: top 0.58690237, residual 9.3e-03
+[19:40:32 |  15.7 min]       restart 10: top 0.58701271, residual 3.9e-03
+[19:40:33 |  15.7 min]       restart 15: top 0.58701274, residual 2.2e-03
+[19:40:33 |  15.8 min]       restart 20: top 0.58701274, residual 9.8e-04
+[19:40:34 |  15.8 min]       restart 25: top 0.58701274, residual 5.1e-04
+[19:40:35 |  15.8 min]       restart 30: top 0.58701274, residual 2.2e-04
+[19:40:35 |  15.8 min]   ||Phi_5|| = 0.58701274   (next [0.568961 0.561883 0.559002], residual 2.2e-04, 5 s)
+[19:40:35 |  15.8 min] === P_7^q, q random, level 6 (dimension 117649) ===
+[19:40:42 |  15.9 min]       restart 5: top 0.59392831, residual 1.3e-02
+[19:40:49 |  16.0 min]       restart 10: top 0.59415716, residual 2.3e-03
+[19:40:56 |  16.1 min]       restart 15: top 0.59415728, residual 5.5e-04
+[19:41:03 |  16.3 min]       restart 20: top 0.59415728, residual 1.3e-04
+[19:41:10 |  16.4 min]       restart 25: top 0.59415728, residual 3.4e-05
+[19:41:17 |  16.5 min]       restart 30: top 0.59415728, residual 8.4e-06
+[19:41:18 |  16.5 min]   ||Phi_6|| = 0.59415728   (next [0.587013 0.578085 0.575083], residual 8.4e-06, 43 s)
+[19:41:18 |  16.5 min] P_7^q, q random: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.35277, 0.530277, 0.561883, 0.587013, 0.594157]
+[19:41:18 |  16.5 min] === P_7^q, q = 1, level 2 (dimension 49) ===
+[19:41:18 |  16.5 min]   ||Phi_2|| = 0.35276968   (next [0.35277  0.35277  0.295759], residual 0.0e+00, 0 s)
+[19:41:18 |  16.5 min] === P_7^q, q = 1, level 3 (dimension 343) ===
+[19:41:18 |  16.5 min]   ||Phi_3|| = 0.57017909   (next [0.458506 0.418449 0.418449], residual 0.0e+00, 0 s)
+[19:41:18 |  16.5 min] === P_7^q, q = 1, level 4 (dimension 2401) ===
+[19:41:18 |  16.5 min]       restart 5: top 0.57017800, residual 5.6e-03
+[19:41:18 |  16.5 min]       restart 10: top 0.57017909, residual 2.8e-04
+[19:41:18 |  16.5 min]       restart 15: top 0.57017909, residual 1.9e-05
+[19:41:19 |  16.5 min]       restart 20: top 0.57017909, residual 1.2e-06
+[19:41:19 |  16.5 min]       restart 25: top 0.57017909, residual 9.1e-08
+[19:41:19 |  16.5 min]   ||Phi_4|| = 0.57017909   (next [0.541082 0.531657 0.531657], residual 9.1e-08, 0 s)
+[19:41:19 |  16.5 min] === P_7^q, q = 1, level 5 (dimension 16807) ===
+[19:41:19 |  16.5 min]       restart 5: top 0.57009081, residual 9.7e-03
+[19:41:20 |  16.5 min]       restart 10: top 0.57017907, residual 1.3e-03
+[19:41:21 |  16.5 min]       restart 15: top 0.57017909, residual 4.4e-04
+[19:41:22 |  16.6 min]       restart 20: top 0.57017909, residual 1.4e-04
+[19:41:22 |  16.6 min]       restart 25: top 0.57017909, residual 5.1e-05
+[19:41:23 |  16.6 min]       restart 30: top 0.57017909, residual 1.6e-05
+[19:41:23 |  16.6 min]   ||Phi_5|| = 0.57017909   (next [0.566958 0.560806 0.543956], residual 1.6e-05, 5 s)
+[19:41:23 |  16.6 min] === P_7^q, q = 1, level 6 (dimension 117649) ===
+[19:41:31 |  16.7 min]       restart 5: top 0.56715429, residual 1.2e-02
+[19:41:38 |  16.8 min]       restart 10: top 0.57011484, residual 4.6e-03
+[19:41:45 |  17.0 min]       restart 15: top 0.57046471, residual 2.7e-03
+[19:41:52 |  17.1 min]       restart 20: top 0.57053635, residual 1.7e-03
+[19:41:59 |  17.2 min]       restart 25: top 0.57054978, residual 1.2e-03
+[19:42:07 |  17.3 min]       restart 30: top 0.57055214, residual 1.0e-03
+[19:42:08 |  17.3 min]   ||Phi_6|| = 0.57055214   (next [0.570178 0.566912 0.565328], residual 1.0e-03, 44 s)
+[19:42:08 |  17.3 min] P_7^q, q = 1: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.35277, 0.570179, 0.570179, 0.570179, 0.570552]
+[19:42:08 |  17.3 min] === R_7^q, q random, level 2 (dimension 49) ===
+[19:42:08 |  17.3 min]   ||Phi_2|| = 0.35276968   (next [0.35277  0.345472 0.309101], residual 0.0e+00, 0 s)
+[19:42:08 |  17.3 min] === R_7^q, q random, level 3 (dimension 343) ===
+[19:42:08 |  17.3 min]   ||Phi_3|| = 0.54692661   (next [0.457643 0.457304 0.450887], residual 0.0e+00, 0 s)
+[19:42:08 |  17.3 min] === R_7^q, q random, level 4 (dimension 2401) ===
+[19:42:08 |  17.3 min]       restart 5: top 0.55328274, residual 2.9e-03
+[19:42:08 |  17.3 min]       restart 10: top 0.55328566, residual 2.9e-05
+[19:42:08 |  17.3 min]       restart 15: top 0.55328566, residual 6.9e-07
+[19:42:08 |  17.3 min]   ||Phi_4|| = 0.55328566   (next [0.546927 0.542379 0.536335], residual 7.4e-08, 0 s)
+[19:42:08 |  17.3 min] === R_7^q, q random, level 5 (dimension 16807) ===
+[19:42:09 |  17.3 min]       restart 5: top 0.57425872, residual 1.4e-02
+[19:42:10 |  17.4 min]       restart 10: top 0.57462421, residual 1.7e-03
+[19:42:10 |  17.4 min]       restart 15: top 0.57462433, residual 8.9e-04
+[19:42:11 |  17.4 min]       restart 20: top 0.57462433, residual 2.1e-04
+[19:42:12 |  17.4 min]       restart 25: top 0.57462433, residual 5.9e-05
+[19:42:13 |  17.4 min]       restart 30: top 0.57462433, residual 1.3e-05
+[19:42:13 |  17.4 min]   ||Phi_5|| = 0.57462433   (next [0.56182  0.561769 0.553607], residual 1.3e-05, 5 s)
+[19:42:13 |  17.4 min] === R_7^q, q random, level 6 (dimension 117649) ===
+[19:42:20 |  17.5 min]       restart 5: top 0.59241193, residual 1.8e-02
+[19:42:28 |  17.7 min]       restart 10: top 0.59270487, residual 3.0e-03
+[19:42:35 |  17.8 min]       restart 15: top 0.59270501, residual 7.7e-04
+[19:42:42 |  17.9 min]       restart 20: top 0.59270501, residual 1.4e-04
+[19:42:49 |  18.0 min]       restart 25: top 0.59270501, residual 2.7e-05
+[19:42:56 |  18.1 min]       restart 30: top 0.59270501, residual 4.9e-06
+[19:42:57 |  18.1 min]   ||Phi_6|| = 0.59270501   (next [0.576432 0.575518 0.574624], residual 4.9e-06, 44 s)
+[19:42:57 |  18.1 min] R_7^q, q random: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.35277, 0.546927, 0.553286, 0.574624, 0.592705]
+[19:42:57 |  18.1 min] === F_{8,4}, random, level 2 (dimension 64) ===
+[19:42:57 |  18.1 min]   ||Phi_2|| = 0.89341903   (next [0.739884 0.554291 0.488371], residual 0.0e+00, 0 s)
+[19:42:57 |  18.1 min] === F_{8,4}, random, level 3 (dimension 512) ===
+[19:42:57 |  18.1 min]   ||Phi_3|| = 0.89341903   (next [0.739884 0.688799 0.688799], residual 0.0e+00, 0 s)
+[19:42:57 |  18.1 min] === F_{8,4}, random, level 4 (dimension 4096) ===
+[19:42:57 |  18.1 min]       restart 5: top 0.89340803, residual 7.0e-03
+[19:42:57 |  18.1 min]       restart 10: top 0.89341903, residual 1.8e-04
+[19:42:57 |  18.1 min]       restart 15: top 0.89341903, residual 7.5e-06
+[19:42:57 |  18.2 min]       restart 20: top 0.89341903, residual 2.7e-07
+[19:42:57 |  18.2 min]   ||Phi_4|| = 0.89341903   (next [0.862594 0.842313 0.810479], residual 7.4e-08, 1 s)
+[19:42:57 |  18.2 min] === F_{8,4}, random, level 5 (dimension 32768) ===
+[19:42:59 |  18.2 min]       restart 5: top 0.89280303, residual 3.3e-02
+[19:43:01 |  18.2 min]       restart 10: top 0.89341875, residual 4.9e-03
+[19:43:02 |  18.2 min]       restart 15: top 0.89341903, residual 6.2e-04
+[19:43:03 |  18.3 min]       restart 20: top 0.89341903, residual 7.2e-05
+[19:43:05 |  18.3 min]       restart 25: top 0.89341903, residual 9.0e-06
+[19:43:06 |  18.3 min]       restart 30: top 0.89341903, residual 1.0e-06
+[19:43:06 |  18.3 min]   ||Phi_5|| = 0.89341903   (next [0.862594 0.843233 0.842313], residual 1.0e-06, 9 s)
+[19:43:06 |  18.3 min] === F_{8,4}, random, level 6 (dimension 262144) ===
+[19:43:22 |  18.6 min]       restart 5: top 0.89033689, residual 4.2e-02
+[19:43:37 |  18.8 min]       restart 10: top 0.89341236, residual 1.0e-02
+[19:43:51 |  19.1 min]       restart 15: top 0.89341902, residual 3.3e-03
+[19:44:06 |  19.3 min]       restart 20: top 0.89341903, residual 9.6e-04
+[19:44:20 |  19.5 min]       restart 25: top 0.89341903, residual 2.7e-04
+[19:44:35 |  19.8 min]       restart 30: top 0.89341903, residual 7.6e-05
+[19:44:37 |  19.8 min]   ||Phi_6|| = 0.89341903   (next [0.862594 0.847241 0.843233], residual 7.6e-05, 91 s)
+[19:44:37 |  19.8 min] F_{8,4}, random: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.893419, 0.893419, 0.893419, 0.893419, 0.893419]
+[19:44:37 |  19.8 min] === F_{8,2}, random, level 2 (dimension 64) ===
+[19:44:37 |  19.8 min]   ||Phi_2|| = 0.62178983   (next [0.62179  0.479958 0.414201], residual 0.0e+00, 0 s)
+[19:44:37 |  19.8 min] === F_{8,2}, random, level 3 (dimension 512) ===
+[19:44:37 |  19.8 min]   ||Phi_3|| = 0.62178983   (next [0.62179  0.515187 0.479958], residual 0.0e+00, 0 s)
+[19:44:37 |  19.8 min] === F_{8,2}, random, level 4 (dimension 4096) ===
+[19:44:38 |  19.8 min]       restart 5: top 0.63769050, residual 3.1e-03
+[19:44:38 |  19.8 min]       restart 10: top 0.63770010, residual 1.2e-05
+[19:44:38 |  19.8 min]       restart 15: top 0.63770010, residual 8.5e-08
+[19:44:38 |  19.8 min]   ||Phi_4|| = 0.63770010   (next [0.62179  0.62179  0.608653], residual 8.5e-08, 0 s)
+[19:44:38 |  19.8 min] === F_{8,2}, random, level 5 (dimension 32768) ===
+[19:44:40 |  19.9 min]       restart 5: top 0.63766316, residual 7.1e-03
+[19:44:41 |  19.9 min]       restart 10: top 0.63770010, residual 4.3e-05
+[19:44:42 |  19.9 min]       restart 15: top 0.63770010, residual 4.4e-07
+[19:44:43 |  19.9 min]   ||Phi_5|| = 0.63770010   (next [0.62179  0.62179  0.608653], residual 7.3e-08, 5 s)
+[19:44:43 |  19.9 min] === F_{8,2}, random, level 6 (dimension 262144) ===
+[19:44:59 |  20.2 min]       restart 5: top 0.63723206, residual 2.5e-02
+[19:45:13 |  20.4 min]       restart 10: top 0.63770005, residual 1.0e-03
+[19:45:28 |  20.7 min]       restart 15: top 0.63770010, residual 4.1e-05
+[19:45:43 |  20.9 min]       restart 20: top 0.63770010, residual 1.9e-06
+[19:45:57 |  21.1 min]       restart 25: top 0.63770010, residual 8.3e-08
+[19:45:59 |  21.2 min]   ||Phi_6|| = 0.63770010   (next [0.62179  0.62179  0.608653], residual 8.3e-08, 76 s)
+[19:45:59 |  21.2 min] F_{8,2}, random: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.62179, 0.62179, 0.6377, 0.6377, 0.6377]
+[19:45:59 |  21.2 min] === K_{8,2}, random, level 2 (dimension 64) ===
+[19:45:59 |  21.2 min]   ||Phi_2|| = 0.45186710   (next [0.451867 0.395383 0.395383], residual 0.0e+00, 0 s)
+[19:45:59 |  21.2 min] === K_{8,2}, random, level 3 (dimension 512) ===
+[19:45:59 |  21.2 min]   ||Phi_3|| = 0.45186710   (next [0.451867 0.395383 0.395383], residual 0.0e+00, 0 s)
+[19:45:59 |  21.2 min] === K_{8,2}, random, level 4 (dimension 4096) ===
+[19:45:59 |  21.2 min]       restart 5: top 0.56566980, residual 1.3e-02
+[19:45:59 |  21.2 min]       restart 10: top 0.56580888, residual 1.1e-03
+[19:46:00 |  21.2 min]       restart 15: top 0.56580892, residual 1.2e-04
+[19:46:00 |  21.2 min]       restart 20: top 0.56580892, residual 1.2e-05
+[19:46:00 |  21.2 min]       restart 25: top 0.56580892, residual 1.3e-06
+[19:46:00 |  21.2 min]       restart 30: top 0.56580892, residual 1.3e-07
+[19:46:00 |  21.2 min]   ||Phi_4|| = 0.56580892   (next [0.551853 0.534703 0.534703], residual 1.3e-07, 1 s)
+[19:46:00 |  21.2 min] === K_{8,2}, random, level 5 (dimension 32768) ===
+[19:46:02 |  21.2 min]       restart 5: top 0.56510324, residual 2.4e-02
+[19:46:03 |  21.2 min]       restart 10: top 0.56580858, residual 2.3e-03
+[19:46:04 |  21.3 min]       restart 15: top 0.56580892, residual 2.9e-04
+[19:46:06 |  21.3 min]       restart 20: top 0.56580892, residual 3.6e-05
+[19:46:07 |  21.3 min]       restart 25: top 0.56580892, residual 4.7e-06
+[19:46:09 |  21.3 min]       restart 30: top 0.56580892, residual 5.8e-07
+[19:46:09 |  21.3 min]   ||Phi_5|| = 0.56580892   (next [0.551853 0.534703 0.534703], residual 5.8e-07, 9 s)
+[19:46:09 |  21.3 min] === K_{8,2}, random, level 6 (dimension 262144) ===
+[19:46:24 |  21.6 min]       restart 5: top 0.56159548, residual 2.8e-02
+[19:46:39 |  21.8 min]       restart 10: top 0.56579125, residual 8.3e-03
+[19:46:54 |  22.1 min]       restart 15: top 0.56580879, residual 4.1e-03
+[19:47:09 |  22.3 min]       restart 20: top 0.56580892, residual 2.5e-03
+[19:47:24 |  22.6 min]       restart 25: top 0.56580892, residual 1.5e-03
+[19:47:38 |  22.8 min]       restart 30: top 0.56580892, residual 9.2e-04
+[19:47:41 |  22.9 min]   ||Phi_6|| = 0.56580892   (next [0.551853 0.534702 0.534671], residual 9.2e-04, 92 s)
+[19:47:41 |  22.9 min] K_{8,2}, random: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.451867, 0.451867, 0.565809, 0.565809, 0.565809]
+[19:47:41 |  22.9 min] === M_{8,1}, random, level 2 (dimension 64) ===
+[19:47:41 |  22.9 min]   ||Phi_2|| = 0.85854196   (next [0.83746  0.801378 0.566027], residual 0.0e+00, 0 s)
+[19:47:41 |  22.9 min] === M_{8,1}, random, level 3 (dimension 512) ===
+[19:47:41 |  22.9 min]   ||Phi_3|| = 0.85854196   (next [0.83746  0.801378 0.769599], residual 0.0e+00, 0 s)
+[19:47:41 |  22.9 min] === M_{8,1}, random, level 4 (dimension 4096) ===
+[19:47:41 |  22.9 min]       restart 5: top 0.85798245, residual 1.9e-02
+[19:47:41 |  22.9 min]       restart 10: top 0.85853951, residual 4.2e-03
+[19:47:41 |  22.9 min]       restart 15: top 0.85854195, residual 7.8e-04
+[19:47:41 |  22.9 min]       restart 20: top 0.85854196, residual 1.7e-04
+[19:47:41 |  22.9 min]       restart 25: top 0.85854196, residual 3.1e-05
+[19:47:42 |  22.9 min]       restart 30: top 0.85854196, residual 6.5e-06
+[19:47:42 |  22.9 min]   ||Phi_4|| = 0.85854196   (next [0.854378 0.83746  0.829332], residual 6.5e-06, 1 s)
+[19:47:42 |  22.9 min] === M_{8,1}, random, level 5 (dimension 32768) ===
+[19:47:43 |  22.9 min]       restart 5: top 0.85463762, residual 3.6e-02
+[19:47:45 |  22.9 min]       restart 10: top 0.85851174, residual 7.2e-03
+[19:47:46 |  23.0 min]       restart 15: top 0.85854180, residual 1.3e-03
+[19:47:47 |  23.0 min]       restart 20: top 0.85854196, residual 2.1e-04
+[19:47:49 |  23.0 min]       restart 25: top 0.85854196, residual 3.8e-05
+[19:47:50 |  23.0 min]       restart 30: top 0.85854196, residual 7.6e-06
+[19:47:51 |  23.0 min]   ||Phi_5|| = 0.85854196   (next [0.854378 0.83746  0.829332], residual 7.6e-06, 9 s)
+[19:47:51 |  23.0 min] === M_{8,1}, random, level 6 (dimension 262144) ===
+[19:48:07 |  23.3 min]       restart 5: top 0.85126113, residual 4.7e-02
+[19:48:21 |  23.5 min]       restart 10: top 0.85847118, residual 1.1e-02
+[19:48:36 |  23.8 min]       restart 15: top 0.85854129, residual 3.1e-03
+[19:48:50 |  24.0 min]       restart 20: top 0.85854196, residual 9.4e-04
+[19:49:05 |  24.3 min]       restart 25: top 0.85854196, residual 2.8e-04
+[19:49:20 |  24.5 min]       restart 30: top 0.85854196, residual 8.4e-05
+[19:49:22 |  24.6 min]   ||Phi_6|| = 0.85854196   (next [0.854378 0.83746  0.829332], residual 8.4e-05, 92 s)
+[19:49:22 |  24.6 min] M_{8,1}, random: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.858542, 0.858542, 0.858542, 0.858542, 0.858542]
+[19:49:22 |  24.6 min] === I_{8,12}, level 2 (dimension 64) ===
+[19:49:22 |  24.6 min]   ||Phi_2|| = 0.46478182   (next [0.439208 0.302704 0.283187], residual 0.0e+00, 0 s)
+[19:49:22 |  24.6 min] === I_{8,12}, level 3 (dimension 512) ===
+[19:49:23 |  24.6 min]   ||Phi_3|| = 0.46478182   (next [0.439208 0.430317 0.430317], residual 0.0e+00, 0 s)
+[19:49:23 |  24.6 min] === I_{8,12}, level 4 (dimension 4096) ===
+[19:49:23 |  24.6 min]       restart 5: top 0.55285074, residual 1.3e-02
+[19:49:23 |  24.6 min]       restart 10: top 0.55292581, residual 3.5e-03
+[19:49:23 |  24.6 min]       restart 15: top 0.55292581, residual 1.8e-03
+[19:49:23 |  24.6 min]       restart 20: top 0.55292581, residual 1.0e-03
+[19:49:23 |  24.6 min]       restart 25: top 0.55292581, residual 5.2e-04
+[19:49:23 |  24.6 min]       restart 30: top 0.55292581, residual 2.7e-04
+[19:49:23 |  24.6 min]   ||Phi_4|| = 0.55292581   (next [0.519127 0.519127 0.487515], residual 2.7e-04, 1 s)
+[19:49:23 |  24.6 min] === I_{8,12}, level 5 (dimension 32768) ===
+[19:49:25 |  24.6 min]       restart 5: top 0.55168163, residual 2.9e-02
+[19:49:26 |  24.6 min]       restart 10: top 0.55292557, residual 8.2e-03
+[19:49:28 |  24.7 min]       restart 15: top 0.55292581, residual 3.6e-03
+[19:49:29 |  24.7 min]       restart 20: top 0.55292581, residual 1.5e-03
+[19:49:31 |  24.7 min]       restart 25: top 0.55292581, residual 6.8e-04
+[19:49:32 |  24.7 min]       restart 30: top 0.55292581, residual 2.9e-04
+[19:49:32 |  24.7 min]   ||Phi_5|| = 0.55292581   (next [0.519127 0.519127 0.496465], residual 2.9e-04, 9 s)
+[19:49:32 |  24.7 min] === I_{8,12}, level 6 (dimension 262144) ===
+[19:49:48 |  25.0 min]       restart 5: top 0.54886195, residual 3.0e-02
+[19:50:02 |  25.2 min]       restart 10: top 0.55291734, residual 1.1e-02
+[19:50:17 |  25.5 min]       restart 15: top 0.55292580, residual 3.3e-03
+[19:50:32 |  25.7 min]       restart 20: top 0.55292581, residual 1.4e-03
+[19:50:46 |  26.0 min]       restart 25: top 0.55292581, residual 4.2e-04
+[19:51:01 |  26.2 min]       restart 30: top 0.55292581, residual 1.3e-04
+[19:51:03 |  26.2 min]   ||Phi_6|| = 0.55292581   (next [0.529029 0.519127 0.519127], residual 1.3e-04, 91 s)
+[19:51:03 |  26.2 min] I_{8,12}: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.464782, 0.464782, 0.552926, 0.552926, 0.552926]
+[19:51:03 |  26.2 min] === K_{8,30}, level 2 (dimension 64) ===
+[19:51:03 |  26.2 min]   ||Phi_2|| = 0.47713892   (next [0.436373 0.375    0.375   ], residual 0.0e+00, 0 s)
+[19:51:03 |  26.2 min] === K_{8,30}, level 3 (dimension 512) ===
+[19:51:03 |  26.3 min]   ||Phi_3|| = 0.47713892   (next [0.444363 0.444363 0.436373], residual 0.0e+00, 0 s)
+[19:51:03 |  26.3 min] === K_{8,30}, level 4 (dimension 4096) ===
+[19:51:03 |  26.3 min]       restart 5: top 0.54094130, residual 1.1e-02
+[19:51:04 |  26.3 min]       restart 10: top 0.54122239, residual 8.2e-04
+[19:51:04 |  26.3 min]       restart 15: top 0.54122252, residual 5.9e-05
+[19:51:04 |  26.3 min]       restart 20: top 0.54122252, residual 4.0e-06
+[19:51:04 |  26.3 min]       restart 25: top 0.54122252, residual 3.1e-07
+[19:51:04 |  26.3 min]   ||Phi_4|| = 0.54122252   (next [0.525366 0.521544 0.521544], residual 6.2e-08, 1 s)
+[19:51:04 |  26.3 min] === K_{8,30}, level 5 (dimension 32768) ===
+[19:51:06 |  26.3 min]       restart 5: top 0.54022541, residual 2.6e-02
+[19:51:07 |  26.3 min]       restart 10: top 0.54122029, residual 3.7e-03
+[19:51:08 |  26.3 min]       restart 15: top 0.54122251, residual 5.7e-04
+[19:51:10 |  26.4 min]       restart 20: top 0.54122252, residual 1.1e-04
+[19:51:11 |  26.4 min]       restart 25: top 0.54122252, residual 2.3e-05
+[19:51:13 |  26.4 min]       restart 30: top 0.54122252, residual 5.3e-06
+[19:51:13 |  26.4 min]   ||Phi_5|| = 0.54122252   (next [0.525366 0.522639 0.521544], residual 5.3e-06, 9 s)
+[19:51:13 |  26.4 min] === K_{8,30}, level 6 (dimension 262144) ===
+[19:51:29 |  26.7 min]       restart 5: top 0.52913443, residual 3.2e-02
+[19:51:43 |  26.9 min]       restart 10: top 0.54092202, residual 7.0e-03
+[19:51:58 |  27.2 min]       restart 15: top 0.54121229, residual 4.2e-03
+[19:52:12 |  27.4 min]       restart 20: top 0.54122220, residual 2.1e-03
+[19:52:27 |  27.6 min]       restart 25: top 0.54122251, residual 1.0e-03
+[19:52:42 |  27.9 min]       restart 30: top 0.54122252, residual 5.7e-04
+[19:52:44 |  27.9 min]   ||Phi_6|| = 0.54122252   (next [0.533635 0.525364 0.523399], residual 5.7e-04, 91 s)
+[19:52:44 |  27.9 min] K_{8,30}: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.477139, 0.477139, 0.541223, 0.541223, 0.541223]
+[19:52:44 |  27.9 min] === L_{8,30}, level 2 (dimension 64) ===
+[19:52:44 |  27.9 min]   ||Phi_2|| = 0.94100979   (next [0.934206 0.873979 0.676455], residual 0.0e+00, 0 s)
+[19:52:44 |  27.9 min] === L_{8,30}, level 3 (dimension 512) ===
+[19:52:44 |  27.9 min]   ||Phi_3|| = 0.94100979   (next [0.934206 0.888268 0.888268], residual 0.0e+00, 0 s)
+[19:52:44 |  27.9 min] === L_{8,30}, level 4 (dimension 4096) ===
+[19:52:44 |  27.9 min]       restart 5: top 0.94386774, residual 2.7e-02
+[19:52:45 |  27.9 min]       restart 10: top 0.94567560, residual 5.5e-03
+[19:52:45 |  27.9 min]       restart 15: top 0.94569706, residual 1.5e-03
+[19:52:45 |  27.9 min]       restart 20: top 0.94569740, residual 3.2e-04
+[19:52:45 |  27.9 min]       restart 25: top 0.94569740, residual 9.5e-05
+[19:52:45 |  27.9 min]       restart 30: top 0.94569740, residual 2.0e-05
+[19:52:45 |  27.9 min]   ||Phi_4|| = 0.94569740   (next [0.94101  0.934206 0.925394], residual 2.0e-05, 1 s)
+[19:52:45 |  27.9 min] === L_{8,30}, level 5 (dimension 32768) ===
+[19:52:47 |  28.0 min]       restart 5: top 0.93933412, residual 4.2e-02
+[19:52:48 |  28.0 min]       restart 10: top 0.94537339, residual 1.2e-02
+[19:52:50 |  28.0 min]       restart 15: top 0.94567498, residual 8.3e-03
+[19:52:51 |  28.0 min]       restart 20: top 0.94569583, residual 4.0e-03
+[19:52:53 |  28.1 min]       restart 25: top 0.94569729, residual 2.9e-03
+[19:52:54 |  28.1 min]       restart 30: top 0.94569740, residual 1.6e-03
+[19:52:54 |  28.1 min]   ||Phi_5|| = 0.94569740   (next [0.94101  0.934205 0.925319], residual 1.6e-03, 9 s)
+[19:52:54 |  28.1 min] === L_{8,30}, level 6 (dimension 262144) ===
+[19:53:10 |  28.4 min]       restart 5: top 0.92056166, residual 5.0e-02
+[19:53:25 |  28.6 min]       restart 10: top 0.94399050, residual 2.1e-02
+[19:53:39 |  28.9 min]       restart 15: top 0.94555324, residual 1.0e-02
+[19:53:54 |  29.1 min]       restart 20: top 0.94568207, residual 5.8e-03
+[19:54:08 |  29.3 min]       restart 25: top 0.94569571, residual 4.4e-03
+[19:54:23 |  29.6 min]       restart 30: top 0.94569722, residual 3.0e-03
+[19:54:25 |  29.6 min]   ||Phi_6|| = 0.94569722   (next [0.941004 0.93416  0.924995], residual 3.0e-03, 91 s)
+[19:54:25 |  29.6 min] L_{8,30}: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.94101, 0.94101, 0.945697, 0.945697, 0.945697]
+[19:54:25 |  29.6 min] === H_9, level 2 (dimension 81) ===
+[19:54:25 |  29.6 min]   ||Phi_2|| = 0.41738581   (next [0.378248 0.358562 0.301246], residual 0.0e+00, 0 s)
+[19:54:25 |  29.6 min] === H_9, level 3 (dimension 729) ===
+[19:54:26 |  29.6 min]   ||Phi_3|| = 0.42046070   (next [0.419197 0.419197 0.41765 ], residual 0.0e+00, 1 s)
+[19:54:26 |  29.6 min] === H_9, level 4 (dimension 6561) ===
+[19:54:26 |  29.6 min]       restart 5: top 0.43910485, residual 1.3e-02
+[19:54:26 |  29.6 min]       restart 10: top 0.44128740, residual 3.5e-03
+[19:54:27 |  29.6 min]       restart 15: top 0.44151491, residual 1.3e-03
+[19:54:27 |  29.6 min]       restart 20: top 0.44152410, residual 4.0e-04
+[19:54:27 |  29.6 min]       restart 25: top 0.44152441, residual 1.4e-04
+[19:54:27 |  29.7 min]       restart 30: top 0.44152442, residual 4.8e-05
+[19:54:27 |  29.7 min]   ||Phi_4|| = 0.44152442   (next [0.441524 0.438544 0.435881], residual 4.8e-05, 2 s)
+[19:54:27 |  29.7 min] === H_9, level 5 (dimension 59049) ===
+[19:54:31 |  29.7 min]       restart 5: top 0.43471817, residual 1.5e-02
+[19:54:35 |  29.8 min]       restart 10: top 0.43946395, residual 6.2e-03
+[19:54:39 |  29.8 min]       restart 15: top 0.44063149, residual 5.4e-03
+[19:54:42 |  29.9 min]       restart 20: top 0.44108999, residual 3.7e-03
+[19:54:46 |  30.0 min]       restart 25: top 0.44131239, residual 2.6e-03
+[19:54:50 |  30.0 min]       restart 30: top 0.44142165, residual 2.4e-03
+[19:54:50 |  30.0 min]   ||Phi_5|| = 0.44142165   (next [0.440903 0.440555 0.440082], residual 2.4e-03, 23 s)
+[19:54:50 |  30.0 min] === H_9, level 6 (dimension 531441) ===
+[19:55:32 |  30.7 min]       restart 5: top 0.43446733, residual 1.6e-02
+[19:56:12 |  31.4 min]       restart 10: top 0.44085705, residual 7.4e-03
+[19:56:53 |  32.1 min]       restart 15: top 0.44250675, residual 4.9e-03
+[19:57:33 |  32.7 min]       restart 20: top 0.44314517, residual 3.5e-03
+[19:58:13 |  33.4 min]       restart 25: top 0.44346384, residual 2.6e-03
+[19:58:53 |  34.1 min]       restart 30: top 0.44365044, residual 2.1e-03
+[19:58:57 |  34.1 min]   ||Phi_6|| = 0.44365044   (next [0.443436 0.443157 0.443039], residual 2.1e-03, 247 s)
+[19:58:57 |  34.1 min] H_9: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.417386, 0.420461, 0.441524, 0.441422, 0.44365]
+[19:58:57 |  34.1 min] === BN_9, level 2 (dimension 81) ===
+[19:58:57 |  34.1 min]   ||Phi_2|| = 0.61871927   (next [0.618719 0.485416 0.274544], residual 0.0e+00, 0 s)
+[19:58:57 |  34.1 min] === BN_9, level 3 (dimension 729) ===
+[19:58:57 |  34.2 min]   ||Phi_3|| = 0.74660244   (next [0.667525 0.635786 0.635786], residual 0.0e+00, 1 s)
+[19:58:57 |  34.2 min] === BN_9, level 4 (dimension 6561) ===
+[19:58:58 |  34.2 min]       restart 5: top 0.74659999, residual 1.1e-02
+[19:58:58 |  34.2 min]       restart 10: top 0.74660244, residual 3.0e-04
+[19:58:58 |  34.2 min]       restart 15: top 0.74660244, residual 8.9e-06
+[19:58:59 |  34.2 min]       restart 20: top 0.74660244, residual 2.7e-07
+[19:58:59 |  34.2 min]   ||Phi_4|| = 0.74660244   (next [0.667525 0.645373 0.635786], residual 6.9e-08, 1 s)
+[19:58:59 |  34.2 min] === BN_9, level 5 (dimension 59049) ===
+[19:59:03 |  34.2 min]       restart 5: top 0.74659445, residual 1.9e-02
+[19:59:06 |  34.3 min]       restart 10: top 0.74660244, residual 3.4e-03
+[19:59:10 |  34.4 min]       restart 15: top 0.74660244, residual 8.8e-04
+[19:59:13 |  34.4 min]       restart 20: top 0.74660244, residual 1.8e-04
+[19:59:17 |  34.5 min]       restart 25: top 0.74660244, residual 3.4e-05
+[19:59:21 |  34.5 min]       restart 30: top 0.74660244, residual 6.6e-06
+[19:59:21 |  34.5 min]   ||Phi_5|| = 0.74660244   (next [0.667525 0.645373 0.636757], residual 6.6e-06, 22 s)
+[19:59:21 |  34.5 min] === BN_9, level 6 (dimension 531441) ===
+[20:00:03 |  35.2 min]       restart 5: top 0.74650290, residual 2.3e-02
+[20:00:43 |  35.9 min]       restart 10: top 0.74660244, residual 6.5e-03
+[20:01:23 |  36.6 min]       restart 15: top 0.74660244, residual 2.1e-03
+[20:01:59 |  37.2 min]       restart 20: top 0.74660244, residual 9.0e-04
+[20:02:36 |  37.8 min]       restart 25: top 0.74660244, residual 3.1e-04
+[20:03:11 |  38.4 min]       restart 30: top 0.74660244, residual 1.1e-04
+[20:03:15 |  38.4 min]   ||Phi_6|| = 0.74660244   (next [0.667525 0.645373 0.636757], residual 1.1e-04, 234 s)
+[20:03:15 |  38.4 min] BN_9: profile ||Phi_k||, k = [2, 3, 4, 5, 6]: [0.618719, 0.746602, 0.746602, 0.746602, 0.746602]
+[20:03:15 |  38.4 min] === BN_10, level 2 (dimension 100) ===
+[20:03:15 |  38.4 min]   ||Phi_2|| = 0.56406250   (next [0.534766 0.534766 0.500977], residual 0.0e+00, 0 s)
+[20:03:15 |  38.4 min] === BN_10, level 3 (dimension 1000) ===
+[20:03:16 |  38.5 min]   ||Phi_3|| = 0.56406250   (next [0.534766 0.534766 0.500977], residual 0.0e+00, 1 s)
+[20:03:16 |  38.5 min] === BN_10, level 4 (dimension 10000) ===
+[20:03:17 |  38.5 min]       restart 5: top 0.64833429, residual 1.2e-02
+[20:03:17 |  38.5 min]       restart 10: top 0.64839410, residual 1.8e-03
+[20:03:18 |  38.5 min]       restart 15: top 0.64839411, residual 2.4e-04
+[20:03:18 |  38.5 min]       restart 20: top 0.64839411, residual 3.7e-05
+[20:03:19 |  38.5 min]       restart 25: top 0.64839411, residual 4.9e-06
+[20:03:19 |  38.5 min]       restart 30: top 0.64839411, residual 7.6e-07
+[20:03:19 |  38.5 min]   ||Phi_4|| = 0.64839411   (next [0.596934 0.596934 0.596934], residual 7.6e-07, 3 s)
+[20:03:19 |  38.5 min] === BN_10, level 5 (dimension 100000) ===
+[20:03:28 |  38.7 min]       restart 5: top 0.64816408, residual 2.0e-02
+[20:03:36 |  38.8 min]       restart 10: top 0.64839407, residual 3.3e-03
+[20:03:45 |  38.9 min]       restart 15: top 0.64839411, residual 4.5e-04
+[20:03:53 |  39.1 min]       restart 20: top 0.64839411, residual 6.4e-05
+[20:04:01 |  39.2 min]       restart 25: top 0.64839411, residual 9.0e-06
+[20:04:09 |  39.3 min]       restart 30: top 0.64839411, residual 1.3e-06
+[20:04:10 |  39.4 min]   ||Phi_5|| = 0.64839411   (next [0.596934 0.596934 0.596934], residual 1.3e-06, 51 s)
+[20:04:10 |  39.4 min] BN_10: profile ||Phi_k||, k = [2, 3, 4, 5]: [0.564063, 0.564062, 0.648394, 0.648394]
+[20:04:10 |  39.4 min] === N_11, level 2 (dimension 121) ===
+[20:04:10 |  39.4 min]   ||Phi_2|| = 0.28050778   (next [0.280508 0.265867 0.265867], residual 0.0e+00, 0 s)
+[20:04:10 |  39.4 min] === N_11, level 3 (dimension 1331) ===
+[20:04:13 |  39.4 min]   ||Phi_3|| = 0.38194208   (next [0.350174 0.349582 0.337753], residual 0.0e+00, 2 s)
+[20:04:13 |  39.4 min] === N_11, level 4 (dimension 14641) ===
+[20:04:14 |  39.4 min]       restart 5: top 0.38129631, residual 1.7e-02
+[20:04:15 |  39.4 min]       restart 10: top 0.38194057, residual 4.5e-03
+[20:04:16 |  39.5 min]       restart 15: top 0.38194208, residual 1.0e-03
+[20:04:17 |  39.5 min]       restart 20: top 0.38194208, residual 2.2e-04
+[20:04:18 |  39.5 min]       restart 25: top 0.38194208, residual 5.4e-05
+[20:04:19 |  39.5 min]       restart 30: top 0.38194208, residual 1.5e-05
+[20:04:19 |  39.5 min]   ||Phi_4|| = 0.38194208   (next [0.367262 0.367262 0.364867], residual 1.5e-05, 6 s)
+[20:04:19 |  39.5 min] === N_11, level 5 (dimension 161051) ===
+[20:04:37 |  39.8 min]       restart 5: top 0.37191082, residual 2.3e-02
+[20:04:54 |  40.1 min]       restart 10: top 0.38176318, residual 7.3e-03
+[20:05:11 |  40.4 min]       restart 15: top 0.38193813, residual 5.1e-03
+[20:05:28 |  40.7 min]       restart 20: top 0.38194198, residual 3.5e-03
+[20:05:45 |  40.9 min]       restart 25: top 0.38194208, residual 2.5e-03
+[20:06:02 |  41.2 min]       restart 30: top 0.38194208, residual 1.7e-03
+[20:06:04 |  41.3 min]   ||Phi_5|| = 0.38194208   (next [0.367714 0.367229 0.36707 ], residual 1.7e-03, 105 s)
+[20:06:04 |  41.3 min] N_11: profile ||Phi_k||, k = [2, 3, 4, 5]: [0.280508, 0.381942, 0.381942, 0.381942]
+[20:06:04 |  41.3 min] === P_12, level 2 (dimension 144) ===
+[20:06:04 |  41.3 min]   ||Phi_2|| = 0.18518519   (next [0.185185 0.185185 0.185185], residual 0.0e+00, 0 s)
+[20:06:04 |  41.3 min] === P_12, level 3 (dimension 1728) ===
+[20:06:09 |  41.3 min]   ||Phi_3|| = 0.30864198   (next [0.308642 0.308642 0.308642], residual 0.0e+00, 5 s)
+[20:06:09 |  41.3 min] === P_12, level 4 (dimension 20736) ===
+[20:06:10 |  41.4 min]       restart 5: top 0.39904182, residual 4.6e-03
+[20:06:12 |  41.4 min]       restart 10: top 0.39917672, residual 2.3e-04
+[20:06:13 |  41.4 min]       restart 15: top 0.39917695, residual 8.6e-06
+[20:06:15 |  41.4 min]       restart 20: top 0.39917695, residual 4.3e-07
+[20:06:16 |  41.5 min]   ||Phi_4|| = 0.39917695   (next [0.399177 0.399177 0.399177], residual 5.8e-08, 7 s)
+[20:06:16 |  41.5 min] === P_12, level 5 (dimension 248832) ===
+[20:06:44 |  41.9 min]       restart 5: top 0.39877393, residual 8.7e-03
+[20:07:12 |  42.4 min]       restart 10: top 0.39917635, residual 3.4e-04
+[20:07:36 |  42.8 min]       restart 15: top 0.39917695, residual 1.6e-05
+[20:07:59 |  43.2 min]       restart 20: top 0.39917695, residual 6.9e-07
+[20:08:21 |  43.5 min]   ||Phi_5|| = 0.39917695   (next [0.399177 0.399177 0.399177], residual 6.2e-08, 125 s)
+[20:08:21 |  43.5 min] P_12: profile ||Phi_k||, k = [2, 3, 4, 5]: [0.185185, 0.308642, 0.399177, 0.399177]
+[20:08:21 |  43.5 min] all done.
