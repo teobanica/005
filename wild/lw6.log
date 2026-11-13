@@ -1,0 +1,7 @@
+k=6 sector 0: dim 16 (block 24), residual 1.1e-10, next Ritz 0.145, 57 s
+k=6 sector 1: dim 9 (block 24), residual 3.7e-11, next Ritz 0.1705, 58 s
+k=6 sector 2: dim 11 (block 24), residual 4.6e-11, next Ritz 0.1537, 59 s
+k=6 sector 3: dim 10 (block 24), residual 4.1e-11, next Ritz 0.1601, 57 s
+k=6 sector 4: dim 11 (block 24), residual 5.9e-11, next Ritz 0.1599, 57 s
+k=6 sector 5: dim 9 (block 24), residual 4.0e-11, next Ritz 0.1706, 58 s
+total f_6 = 66
