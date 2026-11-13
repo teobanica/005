@@ -1,0 +1,8 @@
+q=7  brute force P_d = {3: 0}  formula P_d = {3: 0}  agree
+q=11  brute force P_d = {5: 1280}  formula P_d = {5: 1280}  agree
+q=19  brute force P_d = {3: 1152, 9: 3456}  formula P_d = {3: 1152, 9: 3456}  agree
+q=23  brute force P_d = {11: 11264}  formula P_d = {11: 11264}  agree
+q=27  brute force P_d = {13: 9984}  formula P_d = {13: 9984}  agree
+q=31  brute force P_d = {3: 4608, 5: 7680, 15: 18432}  formula P_d = {3: 4608, 5: 7680, 15: 18432}  agree
+q=43  brute force P_d = {3: 1152, 7: 33152, 21: 35584}  formula P_d = {3: 1152, 7: 33152, 21: 35584}  agree
+q=47  brute force P_d = {23: 70656}  formula P_d = {23: 70656}  agree
